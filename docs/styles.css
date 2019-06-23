@@ -21,11 +21,13 @@ body {
   font-size: 2.125rem;
   margin: 3rem 0 2.5rem;
   text-align: center;
-  position: relative;
-  display: inline-block;
-} 
+}
 
-.markdown-section h1::after {
+.markdown-section h1 span {
+  position: relative;
+}
+
+.markdown-section h1 span::after {
   content: '';
   height: 13px;
   width: 100%;
@@ -39,11 +41,13 @@ body {
 .markdown-section h2 {
   padding-right: 0;
   font-size: 1.5rem;
-  position: relative;
-  display: inline-block;
 }
 
-.markdown-section h2::after {
+.markdown-section h2 span {
+  position: relative;
+}
+
+.markdown-section h2 span::after {
   content: '';
   height: 13px;
   width: 100%;
@@ -92,8 +96,18 @@ section.cover h1:after {
   top: calc(50%);
   left: -5px;
 }
-
 /* / Cover*/
+
+/* Sidebar */
+.sidebar ul li a {
+  font-size: 13px;
+  color: #000;
+}
+
+.app-sub-sidebar li::before {
+  content: '' !important;
+}
+/* /Sidebar*/
 
 .markdown-section img {
   max-width: 270px
