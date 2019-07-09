@@ -1,4 +1,11 @@
 <!-- docs/_sidebar.md -->
 * [Introduction to Product Management](/)
 * [Strategy & Product Vision](strategy.md)
+* [Introduction to Product Development](introduction-product-development.md)
+* [Ideas and User Needs](ideas-user-needs.md)
+* [Competitive and Market Analysis](competitive-market.md)
 * [Customer Development](customer-development.md)
+* [Designing and Running Experiments](designing-and-runing-experiments.md)
+* [Product Metrics and KPI](metrics.md)
+* [Building the product](building-the-product.md)
+* [Working with stakeholders](working-with-stakeholders.md)

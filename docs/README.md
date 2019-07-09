@@ -73,7 +73,11 @@ A PMM is very similar to a PM, but a PM tends to be more internally focused—ge
 Product intuition is a skill, it is the observation of human behavior, trained by data, and applied to software.
 In order to learn, you need quick feedback when you’re wrong. Feedback comes faster by understanding your customer and testing your assumptions than by launching a product no one wanted and blaming it on the marketing team.  [2]
 
+<hr>
 
 ## Resources
+#### Artilces
 - [1] The Product Book
 - [2] [Training your product intuition - Merci Victoria Grace - Medium](https://medium.com/@merci/training-your-product-intuition-276a7f8965b6)
+#### Podcasts
+- [1] The Product Book
