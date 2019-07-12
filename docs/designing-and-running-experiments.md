@@ -1,3 +1,36 @@
+# Testing and Optimization
+
+> To learn is to grow
+
+The quickest way to stunt your company’s growth is resting on your laurels. So, what growth experiment will you run next?
+
+## Timing
+
+For young companies, small optimization projects just don’t make sense.
+
+When you’re pre-scale the time, money and headspace spent trying to tweak systems that have to prove their worth is better spent elsewhere. Similarly don’t stress yourself if you read an A/B test that guarantees a 5% lift in conversions. It never delivers, copying someone else’s test results is like wearing someone else’s glasses. They weren’t meant for you.
+
+## Opportunities  
+
+As for specific opportunities, try at least one acquisition opportunity and one retention opportunity to start out. If a growth opportunity is not paying off anywhere near expectations, fail fast and try some other ones. 
+
+Creating a growth mindset and applying a set of growth best practices is the way to systematically shifting your odds in favor. 
+
+Consistent 1% improvements over time will yield larger and larger absolute increases in performance. Growth is the judicious, iterative improvement of all of the parts of your business that need to be improved, while maintaining a holistic sense of how all the parts fit together.
+
+## Avoid snacking
+
+Snacking is the "attractive" low-effort, low-impact work. It feels rewarding and can solve a short term problem, but if you never eat anything of substance it can kill you. By continually picking up the low-hanging fruit, the branches will stop growing, so this work dries up quickly as your product and team matures.
+
+The wasted time compounds a lot quicker than the insignificant results. Do this enough times and you’ll grow a low impact team that doesn’t achieve anything.
+
+## You are not your customer
+
+It doesn't matter how much you look like the customer, you have way too much knowledge about this problem to assume that the way you do it is the way other people will do it. You can’t learn if you’re not putting your product in front of users and watching how they do it. 
+
+Sure, an experiment can tell you what’s going on, but it’s not going to tell you why. You really need to do qualitative research.
+
+
 # Designing and Running Experiments
 
 Experiments can provide valuable insights for your product. However, many companies run experiments for the sake of running experiments without gaining any real insights which propel the product forward or achieve any interesting, insightful results. [4]
@@ -105,3 +138,6 @@ Scope down your solution so that you’re only testing the hypothesis you mean t
 [4] - [How to Design Experiments for Your Product - Department of Product](https://www.departmentofproduct.com/blog/design-experiments-product/)
 [5] - [What is your Riskiest Assumption? - MVP Workshop](https://mvpworkshop.co/validate-riskiest-assumption/)
 [7] - [The Product Manager’s Scientific Method](https://www.productplan.com/product-manager-scientific-method/)
+
+## Books
+- [1] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)

@@ -1,54 +1,47 @@
-# Product Metrics and KPI
+# Metrics & Measurement
 
 ## What are metrics?
 Metrics are the measurement of different aspects of your product. These might include things within your product, like how many people complete a task, or things affected by your product, like how much revenue you’re making. Success metrics, sometimes called key performance indicators (KPIs), are the key metrics that define how we keep score, like how many goals you scored in a soccer game.  [1]
 
+What you measure is what you end up optimizing for. Get a handle on your metrics early, and you’ll lay the foundations for authentic growth to follow.
+
 ### Vanity vs. Actionable Metrics
-Vanity metrics are those that sound useful, and might be great for some other business need, but don’t help us measure product performance. Actionable metrics are real data we can use to make decisions. [1]
 
-## HEART
-> Google’s HEART Framework helps measure the quality of user experience.
+Vanity metrics are those that sound useful, and might be great for some other business need, but don’t help us measure product performance. 
 
-The idea is a simple one; to deliver a series of user-centred metrics that allow you to measure the user experience on a large scale. These metrics can then be used for decision making in the product development process. [2]
+Actionable metrics are real data we can use to make decisions. [1]
 
-[image:0AEB2814-FF96-46E3-9B5D-DEC9D804492E-16974-000143BCAE622621/59B095E2-4E9A-4CD4-B052-8C6C88008285.png]
-[4]
+### Proxy Metrics [6]
 
-### The Heart Metrics [2]
-There are five metrics used in the HEART framework:
+Proxy metrics are powerful because they enable businesses to use an upstream-metric (i.e., number of friends added in your account) to predict a downstream outcome (i.e., becoming a long-term user), which reduces latency and accelerates experimentation cycle times. Great companies employ proxy metrics all the time. 
 
-**Happiness:** How do users feel about your product? Happiness is typically measured by user satisfaction surveys, app ratings and reviews, and net promoter score.
+1. They are easy to measure; 
+2. They are correlated to (and ideally predictive of) the business’ goals; 
+3. They are concrete and create a unifying vision for the team; and 
+4. They enable businesses to iterate faster by reducing latency.
 
-**Engagement:** How often are people coming back to use the product? Engagement can be measured by number of visits per user per week, session length, or a key action, like the number of photos uploaded or songs listened to per user per day.
+### Understanding user activity
 
-**Adoption:** How many people complete the onboarding process and become regular users? Adoption is measured by number of new users over a period of time or percentage of customers using a new feature.
+It’s important to assess what “activity” means for your product. Simply logging in is often not a good signal of engagement. Is the product or feature you’re building something you expect people to use every day? Is it every week?
 
-**Retention:** What percentage of users are returning to the product? Retention is measured by churn.
+A more meaningful approach is to break your users into segments and look at activity based on segments. 
 
-**Task success:** Can users achieve their goal or task quickly and easily? Task success is measured by factors like efficiency (how long it takes users to complete the task) effectiveness (percent of tasks completed), and error rate.
+Time is another important measure of engagement to consider. This might be time spent in your app or some measure like session duration or session length. The premise is that the more time users spend in your product, the more engaged they are.
 
-### How to Use the HEART Framework [2]
-#### Step 1: Set Goals
-Setting goals up front is a great way to get every member of your team on the same page. Is it more important to attract new users, or increase engagement for existing users? What tasks do you want new users to complete? Remember that goals for a particular product or feature update may be different than the goals you have for your overall app.
-It’s important to narrow down your list of goals to no more than 3.
+### The only metric that matters [7]
 
-#### Step 2: Define Signals
-Every goal has related user actions. Mapping your goals to those actions can let you know whether you’re on track. What behaviors or attitudes would indicate your goal has been met or failed?
+How many people are really using your product? 
 
-#### Step 3: Choose Metrics
-Finally, distill signals into trackable metrics that you can monitor in a real-time dashboard.
+You need a metric that specifically answers this. Whatever it is, it should be a signal that they are using their product in the way you expected and that they use it enough so that you believe they will come back to use it more and more.
 
-The HEART framework is a useful framework because it’s simple and easy to understand. That makes communicating the reasons for selecting it easy across teams. While the framework may be designed for large projects; there’s nothing to stop it being implemented on smaller projects either – it’s just that the methods used for data collection are likely to vary. [3]
+Only then, you can really track your growth on a day-to-day, week-over-week, month-over-month basis.
 
-## AARRR
-## NPS
-## GAME
 
-## ## Resources
+## Resources
 ### Articles
-- [2] - [How to Use the Google HEART Framework to Improve UX | CleverTap](https://clevertap.com/blog/google-heart-framework/)
-- [3] - [Google’s HEART Framework for Measuring UX | Interaction Design Foundation](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
-- [4] - [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/#quality)
+- [1] - [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/#quality)
+- [2] - [How to create competitive advantage for your startup with proxy metrics](https://tomtunguz.com/proxy-metrics/)
 
 ### Books
-- [1] - The Product Book
+- [3] - The Product Book
+- [4] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)
