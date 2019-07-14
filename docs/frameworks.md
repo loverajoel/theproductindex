@@ -48,8 +48,6 @@ The HEART framework is a useful framework because it’s simple and easy to unde
 ## GAME
 
 
-
-
 ## JTBD
 
 ## Personas

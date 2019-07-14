@@ -4,7 +4,7 @@
 
 > As product managers it is our job to answer the question “how will our product be the best?” by focusing on the problem, always ensuring our work ties back to the problem space and the customer need, and avoiding solution pollution.
 
-## The Product/Market Fit Pyramid
+## The Product/Market Fit Pyramid [4]
 
 The term Product/Market Fit was coined by Marc Andreesen back in 2007 and it’s been a key goal for any new product or startup ever since. But like any buzzword, it is often oversimplified and misunderstood.
 
@@ -19,7 +19,7 @@ It’s all too easy to get stuck in the solution space, after all we all love de
 
 The product manager must be able to quickly evaluate opportunities to decide which are promising and which are not; what looks appealing, which should be pursued, which are better left for others, and which ideas are not yet ready for productization.
 
-## Defining the problem with POA
+### Defining the problem with POA
 
 > Product Opportunity Assessment (POA) is an extremely important responsibility of the product manager. The purpose of a good product opportunity Assessmentt is to either:
  a) prevent the company from wasting time and money on poor opportunities by ultimately proving the idea should be shelved for now, or
@@ -61,3 +61,4 @@ In order to find product/market fit you shouldn’t try to compete on must-have 
 - [1] [Mastering the problem space](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)
 - [2] [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html)
 - [3] [The Real Product Maket Fit](https://blog.ycombinator.com/the-real-product-market-fit/) 
+- [4] [Assessing Product Opportunities](https://svpg.com/assessing-product-opportunities/)

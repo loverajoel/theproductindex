@@ -30,7 +30,6 @@ It doesn't matter how much you look like the customer, you have way too much kno
 
 Sure, an experiment can tell you what’s going on, but it’s not going to tell you why. You really need to do qualitative research.
 
-
 # Designing and Running Experiments
 
 Experiments can provide valuable insights for your product. However, many companies run experiments for the sake of running experiments without gaining any real insights which propel the product forward or achieve any interesting, insightful results. [4]
@@ -109,8 +108,6 @@ We believe ____(subject)____ has a ____(problem)_____ because ____(reason)____. 
 **Falsifiable**
 “There is an invisible, intangible tea cup floating between the Earth and Mars.”
 
-
-
 ##  MVP
 An MVP is a product with a basic set of features that are enough to capture the attention of early adopter user and make your position on the market. [3]
 
@@ -132,12 +129,13 @@ Scope down your solution so that you’re only testing the hypothesis you mean t
 
 
 ## Resources
-[ 1 ] - PM Course Udemy
- [2] - [An Intro to the Minimum Viable Product (MVP)](https://www.productmanagerhq.com/2014/09/an-intro-to-the-minimum-viable-product-mvp/)
+### Articles
+[1] - PM Course Udemy
+[2] - [An Intro to the Minimum Viable Product (MVP)](https://www.productmanagerhq.com/2014/09/an-intro-to-the-minimum-viable-product-mvp/)
 [3] - [Why and How You Should Build a Minimum Viable Product (MVP)](https://medium.com/tokopedia-product-team/minimum-viable-product-mvp-101-5192bc5c2a2)
 [4] - [How to Design Experiments for Your Product - Department of Product](https://www.departmentofproduct.com/blog/design-experiments-product/)
 [5] - [What is your Riskiest Assumption? - MVP Workshop](https://mvpworkshop.co/validate-riskiest-assumption/)
 [7] - [The Product Manager’s Scientific Method](https://www.productplan.com/product-manager-scientific-method/)
 
-## Books
+### Books
 - [1] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)

@@ -37,97 +37,120 @@ When building a business, the process is used to discover, test and validate the
   * The business is scalable through a repeatable sales and marketing roadmap (Company Creation)
   * Company departments and operational processes are created to support scale (Company Building) [2]
 
-## Customer Discovery
+## Identify the problem
+
+Product ideas can come from different areas within the company, competitors and customers. However, one thing is certain: they need to solve a real problem or painpoint.
+
+### Customer Discovery
+
 Customer discovery is applying scientific method to business, is the most lean and efficient method to get user needs. During this process we will generate measurable data to confirm or deny your hypothesis.
 
-Customer Discovery phase is composed by the next four steps:
-  - State problem hypothesis.
-  - Test the problem hypothesis
-  - Test solution
-  - Verify you hypothesis or pivot
+Steps:
+  1. State problem hypothesis.
+  2. Test the problem hypothesis
+  3. Test solution
+  4. Verify you hypothesis or pivot
 
-The final goal of customer discovery is figure out:
+Once you identify that you can solve a problem to your users and they are willing to pay, you can move to the Customer Validation phase.
+
+The ultimate goal of customer discovery is to figure out:
   - Who are your customers?
-  - Is the problem you’re solving important to them?
-  - Extra and important: Will customer pay for your solution?
+  - What problems they have?
+  - Why they would buy?
 
-Forming a problem hypothesis is the correct way to learn about user needs.
+### Create a problem hypothesis
 
-### What is a Problem Hypothesis
-Problem Hypothesis is the starting point of customer development. Starting with a Problem Hypothesis you starts being concern about the user problems and not in product what is a common mistake.
-
-To create a problem hypothesis you should define:
+Problem Hypothesis is the starting point of customer development. To create a problem hypothesis you should define:
   - Who are your users.
-  - What are their needs, goals, or desires.
+  - What are their needs, goals and desires.
 
-**The Problem Hypothesis format**
+**The Problem Hypothesis template**
 
 As a [user type] I want [behavior] so that [outcome or benefit].
 
-Once you have formulated the correct hypothesis you will create surveys and interviews to validate the user needs and goals.
+Once you have formulated a correct hypothesis, conduct User Research to validate user needs and goals.
 
 ## User research
-Avoid guessing at what a user needs, nothing is more important than research, look for data to confirm you assumptions and talk to your customer is the key to the success of customer discovery.
 
-We divide the research on two steps, the first one Secondary Research is the initial research, you can start to validate your assumptions with research that already exists, then Primary Research, when you directly talk with your customers to start to validate your hypothesis and look for opportunities.
+Avoid guessing at what a user needs and look for data to confirm you assumptions. Talking to your users is key to a successful customer discovery.
 
-To validate your assumptions you should be sure about:
-  - You had identified a problem the customer wants solve.
-  - Does you product solves the customers’ needs?
-  - Is your business model viable?
-  - Have you learned enough to begin selling it?
+There are two types; Primary and Secondary Research. Primary Research is when you directly talk with your customers to validate your hypothesis and look for opportunities. Secondary Research is when you make use of existing and available research from the industry.
 
-### Defining the target market
-It’s important to get feedback from your target users about their problem and not for an unspecific  market. You should determines if someone would be a good candidate for user feedback, usually this process is called Screener.
+### Defining your target audience
 
-We used to define our target audience based on demographics, The latest way to segment the target audience is about the attitude or the way they see the world, this segmentation is called Psychographics.
+It’s important to get early feedback from your target users and their problems. To do so, you should filter your audience using a process called Screener to determine whether someone would be a good candidate for user feedback or not.
 
-**Psychographics**
+A good approach is to start with demographics first, then find patterns on their responses during user research that represents attitudes, aspirations and psychological profile (i.e., people whi believe in global warming). This way of segmentation is called Psychographics.
 
-People are classified by their attitudes, aspirations and psychological data. Ex: People who believe in global warming.
+The bottom line is, the more specific your are when approaching your audience, the better.
 
-### Secondary Research Technique
-As a PM always start from here, using data that already exists
-**Secondary Research**
-  - Academic research.
-  - Private research firms.
-  - Consumer reports.
-  - Expert interviews.
+### Secondary Research
+
+As a Product Manager always start from here, using data that already exists:
+  - Academic research
+  - Private research firms
+  - Consumer reports
+  - Expert interviews
+
+Expert interviews will help you avoid common pitfalls and refine your problem hypothesis and target audience. 
   
-### Primary Research Technique
-After the Secondary Research, you start to talk directly with you target user with two common methods:
-  - Surveys
-    - Measure attitudes.
-    - Collecting quantitative feedback.
-    - Understand the degree of user beliefs.
-  - Interviews
-    - Open end questions.
-    - Allow the user speak freely.
-    - Watch the user language.
-    - Tailor the conversation.
-    - Dive more deeply with questions.
-    
-## Surveys
+### Primary Research
+
+Now it's time to get direct feedback from users. Identify good channels early so you later develop them as needed.
+
+#### Surveys
+
 Before you create a survey you should ask yourself what questions do you want answer with it and figure out whatever or not the survey is the right tool or not.
 
-Surveys are good for:
-  - Measure attitude, intent, or task success.
-    - How the user feel about this?
-    - How important is this for the user?
-    - How successful is the user at complete this task?
-  - Track changes over time.
-    - Maybe over your product or specific features.
-  - Quantify user problems.
+  What they're good for:
+    - Measure attitudes, intent, or task success
+    - Quantify user problems
+    - Track changes over time
 
-Surveys should be short(less than 5 minutes) and for a specific purpose or insight.
+  What they're not good for:
+    - Discover reasons behind needs
+    - Learn if your product can be used effectively
+    - Understand user behaviour
 
-## User Interviews
-To truly understand the user needs and goals you need to talk to your customers, customer interview is the most flexible and accurate tool to do that.
+  They should be:
+    - Short (less than 5 minutes)
+    - Specific
+    - Questions grouped together
+    - Broad questions before specific
+    - Quantitative
 
-- Don’t talk about your product -> Talk about what they want, what they need.
-- Don’t talk about your opinion.
-- Create a comfortable environment.
-- Don’t force the conversation, guide it.
+#### User Interviews
+Interviews are the most flexible and accurate tool to understand your user's needs and goals.
+
+  They are:
+    - Open-ended questions
+    - Allow the user speak freely
+    - Watch the user language
+    - Tailor the conversation
+    - Dive more deeply with questions.
+
+**Create a template**
+1. Learning objective: What are you trying to learn?
+2. Introduction: There are no right answers. Build rapport.
+3. Questions: Start easy, open-ended, ask follow up questions and ask for personal contact info. Always seek clarity, i.e., "That's interesting, please, tell me more".
+
+The *intensity arc*: Begin with easy questions, place the hardest questions in the middle and end up with follow-up questions and personal contact info.
+
+**Prepare for interviews**
+1. Get into research mode -> Friendly, engaging and casual
+2. Take notes or record the session if possible
+3. Stay positive and avoid bias
+4. Listen to all user feedback without judgment
+5. Pay attention to body language: do not intimidate nor go too fast
+6. Make eye-contact
+7. Express gratitude for their time
+8. Encourage them when they are having hard time answering 
+
+> Avoid conclusions before the interview ends!
+
+**Analyze data**
+After a while, patterns begin to emerge; same problems mentioned, users actively seeking potential solutions, unhappy users with the current solution and users with available budget to solve the problem.
+
 
 ### Good questions, bad questions
 
