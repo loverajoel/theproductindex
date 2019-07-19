@@ -1,131 +1,117 @@
 # Testing and Optimization
 
-> To learn is to grow
+The quickest way to stunt your product's growth is resting on your laurels. So, what experiment will you run next?
 
-The quickest way to stunt your company’s growth is resting on your laurels. So, what growth experiment will you run next?
+Experiments can provide valuable insights for your product. However, many companies run experiments without gaining any real insights which propel the product forward or achieve any interesting, insightful results.
 
-## Timing
+Experiments should be run to try and find insights into problems and answers to interesting questions which help the company  to achieve their goals.
 
-For young companies, small optimization projects just don’t make sense.
-
-When you’re pre-scale the time, money and headspace spent trying to tweak systems that have to prove their worth is better spent elsewhere. Similarly don’t stress yourself if you read an A/B test that guarantees a 5% lift in conversions. It never delivers, copying someone else’s test results is like wearing someone else’s glasses. They weren’t meant for you.
+For startups, small optimization projects just don’t make sense. The the time, money and headspace spent trying to tweak something that yet have to prove their worth is better spent elsewhere.
 
 ## Opportunities  
 
-As for specific opportunities, try at least one acquisition opportunity and one retention opportunity to start out. If a growth opportunity is not paying off anywhere near expectations, fail fast and try some other ones. 
-
-Creating a growth mindset and applying a set of growth best practices is the way to systematically shifting your odds in favor. 
+When it comes for specific opportunities, try to balance between acquisition and retention opportunities. If a growth opportunity is not paying off anywhere near expectations, fail fast and try some other ones.
 
 Consistent 1% improvements over time will yield larger and larger absolute increases in performance. Growth is the judicious, iterative improvement of all of the parts of your business that need to be improved, while maintaining a holistic sense of how all the parts fit together.
 
+Creating a growth mindset and applying a set of growth best practices is the way to systematically shifting your odds in favor.
+
 ## Avoid snacking
 
-Snacking is the "attractive" low-effort, low-impact work. It feels rewarding and can solve a short term problem, but if you never eat anything of substance it can kill you. By continually picking up the low-hanging fruit, the branches will stop growing, so this work dries up quickly as your product and team matures.
+Snacking is the *attractive* low-effort, low-impact work. It feels rewarding and can solve a short term problem, but if you never eat anything of substance it can kill you. By continually picking up the low-hanging fruit, the branches will stop growing, so this work dries up quickly as your product and team matures.
 
 The wasted time compounds a lot quicker than the insignificant results. Do this enough times and you’ll grow a low impact team that doesn’t achieve anything.
 
 ## You are not your customer
 
-It doesn't matter how much you look like the customer, you have way too much knowledge about this problem to assume that the way you do it is the way other people will do it. You can’t learn if you’re not putting your product in front of users and watching how they do it. 
+It doesn't matter how much you look like the customer, you have way too much knowledge about this problem to assume that the way you do it is the way other people do it. How can you learn if you’re not putting your product in front of users?
 
-Sure, an experiment can tell you what’s going on, but it’s not going to tell you why. You really need to do qualitative research.
+An experiment can tell you what’s going on, but it’s not going to tell you why. And that's how you master the problem space. You really need to talk to your users.
 
 # Designing and Running Experiments
 
-Experiments can provide valuable insights for your product. However, many companies run experiments for the sake of running experiments without gaining any real insights which propel the product forward or achieve any interesting, insightful results. [4]
+In order to learn from your experiments, you need to spend time upfront creating experiments that will deliver conclusive results at the end.
 
-In order to learn from your experiments, you need to spend time upfront creating experiments that will deliver conclusive results at the end. [4]
-
-Experiments should be run as genuine pieces of scientific, investigative work to try and find insights into problems and answers to interesting questions which help you to achieve your goals. [4]
-
-Armed with results from a genuinely insightful experiment, you can inform your roadmap, your team and your stakeholders and reassess your goals with the insights you’ve gained. [4]
-
-## Conceptualizing the Solution
-In order to build a great product, you first have to conceptualize it. As a PM you have different tools like wire-framing, mockups and prototypes to do it.
+Don't stress yourself if you read an A/B test that guarantees a 5% lift in conversions. It never happens. Like wearing someone else's glasses, they weren’t meant for you.
 
 ## Assumptions
-An assumption is something we believe is generally true with absolutely no evidence. It’s something we take for granted. Certain things in your product development process are not ok to be a part of your assumptions without trying to invalidate them first. [5]
 
-Every innovation is based on a set of assumptions. Many of them will be right and many of them will be wrong. [5]
+An assumption is something we believe is generally true with absolutely no evidence. It’s something we take for granted when thinking about the problem.
 
-Obviously, some of these assumptions are more likely to be wrong and break your business model. Since the essence of an MVP approach to startups is to save as much time as possible, you should test the riskiest ones first. If they prove to be wrong you still have time to go back to the drawing board and pivot or move to another project. While tackling what’s riskiest is a simple enough concept to grasp, ironically it is quite hard to put into practice. [5]
+You want to make a list of all your assumptions and choose the ones that, if not true, will make your product fail. If they prove to be wrong you still have time to go back to the drawing board and pivot or move to another project.
 
-### The format of an assumption
-In order for my idea to be successful the following must be true…
-I assume that:
-  - My customer as x,y,z problem
+Some examples of common assumptions:
+- My customers has problem x,y,z
+- My customers care about x
+- My customer would pay for solution x
+- There are no satisfactory substitutes
 
+Usually, the riskiest assumption is the one that states that your customers have a specific problem that you're trying to solve. If that assumption turns out to be false, then they won't care about your product/solution.
 
 ## Hypotheses
-A hypothesis it’s a statement of what you believe that is true.
 
-Writing a hypothesis helps us gain a clear understanding of the problem we’re observing so that we can create a set of experiments, and test potential solutions. [6]
+A hypothesis it’s a statement of what you believe is true. A hypothesis brings clarity not only to you, but the rest of your team. If you skip this stage, you run the risk of forgetting what exactly you're trying to do in the first place.
 
-Creating a Hypothesis, we should investigate in this order:
-  * Who is our target group?
-  * Why does X do this and not that?
-  * How can person X be motivated to take action Y?
-  * How can we encourage potential users to sign up for our service?
+When building new products, this basic template for writing hyphotheses works great:
 
-### The Scientific Method [7]
+> **We believe** [subject/target]  **will** [predicted action] **because** [reason]
 
-Step 1: Make an observation
-Step 2: Ask a question
-Step 3: Form a hypothesis (or testable explanation)
-Step 4: Make a prediction based on the hypothesis
-Step 5: Test the prediction
-Step 6: Iterate (use the results to make new predictions or hypotheses)
+As a product managers in established companies with existing products, there's a more specific way of thinking about hyphotheses:
 
-During this process we will generate measurable data to confirm or deny your hypothesis.
+> **We believe** [subject/target] **has a** [problem] **because** [reason]. **If we do** [action], **this** [metric] **will improve** 
 
+The main difference between assumptions and hyphotheses is that hyphotheses are actionable. They also have a target customer group, an expected outcome and a strategy to get customers to behave in specific way.
 
-### Types
-**Simple** (you can add the problem to it)
-We believe ____(subject/target)____ will ____(predicted action)____ because ____(reason)__.
+### Minimum Criteria of Success (MCS)
 
-**Better**
-If we ____(action)____, we believe ____(subject/target)____ will ____(predicted action outcome)____ because ____(reason)____.
+It's critical that you establish a Minimum Criteria of Success (MCS) in order to decide whether your product is worth building. It provides clarity and meaning.
 
-**The PM way**
-We believe ____(subject)____ has a ____(problem)_____ because ____(reason)____. If we ____(action)____, this ____(metric)____ metric will improve.
+A big percentage of all the experiments you are going to run are going to end up in “somewhere in the middle” between "true" and "false". This means that if you don't define a MCS beforehand, you won't be able to decide objectively.
 
-### How to define a good hypothesis
-**Simple and Unambiguous**
-“If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would call their students using ‘Mr./Ms.’ and their last name instead of their first name.”
+In order to set your MCS, take into account the cost / reward relation of the experiment.
 
-**Measurable**
-“Our customers donate to charitable causes twice per year.”
+##  The Minimum Viable Product (MVP)
 
-**Describes a Relationship**
-“Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”
+> A Minimum Viable Product is that version of a new product which allows a team to collect a maximum amount of validated learning about customers with the least effort - Eric Ries, The Lean Startup
 
-**Cause and Effect**
-“**If** we feed ice cream to people, **then** the average **#** of drownings per day will increase.”
+The goal of the MVP is to quickly get feedback from customers and improve the product without having to invest a lot of time or money that could potentially go to waste.
 
-**Achievable**
-“If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”
+The important part is "validated learning", which means learning from a scientific experiment where you are not biasing your customers.
 
-**Falsifiable**
-“There is an invisible, intangible tea cup floating between the Earth and Mars.”
+<!-- image -->
 
-##  MVP
-An MVP is a product with a basic set of features that are enough to capture the attention of early adopter user and make your position on the market. [3]
+The Build-Measure-Learn feedback loop is at the core of the Lean Startup model. The effort should be focused on minimizing the total time through this feedback loop. The less time needed, the more experiments we can run in the same time which leads to a better product.
 
-The goal of the MVP is to quickly get feedback from customers and improve the product without having to invest a lot of time or money that could potentially go to waste. From the customer’s interaction with the MVP, the product can then go through cycles of improvement that result in a full-featured product that customers will love. [2]
+MVPs will return quantitative data primarily that indicates user behaviour. Use this data as input to find which users are you going to talk to. You need qualitative data from these interviews to understand why the MVP worked or not and make the right decisions.
 
-> The MVP should allow the team to collect the maximum amount of user data and feedback with the least effort. [2]
+### Techniques
 
-Scope down your solution so that you’re only testing the hypothesis you mean to test. Constrain your solution to just satisfy the needs or solve the problems of your customer, or you’ll muddy the waters.
+> Fake it till you make it
 
-### MVP Techniques
-  - Email
-  - Shadow button
-  - 404 / Coming soon
-  - Explainer videos
-  - Fake landing page / Pitch experiment
-  - Concierge
-  - Piecemeal
-  - Wizard of oz
+Since you need validated learning from real customers, you need to make sure they think the real product is ready or at least comming soon. How far you can go will determine which type of MVP fits best.
+
+**Considerations**:
+- Larger organizations have the resources to weather failed products
+- Some companies care a lot about how their brand is affected
+- Startups can use all their resources for MVPs
+
+**Email MVP**
+**Shadow button**
+**404 / Coming soon
+**Explainer videos
+**Fake landing page / Pitch experiment**
+**Concierge**
+**Piecemeal**
+**Wizard of oz**
+
+### How to start
+
+1. Product/Solution Ideation
+2. Identify Assumptions (the riskiest)
+3. Build hypothesis around them
+4. Establish Minimum Criteria of Success (MCS)
+5. Pick an MVP Strategy & Type
+6. Execute, evaluate and iterate
 
 
 ## Resources
@@ -139,3 +125,4 @@ Scope down your solution so that you’re only testing the hypothesis you mean t
 
 ### Books
 - [1] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)
+- [2] - The Lean Startup, Eric Ries
