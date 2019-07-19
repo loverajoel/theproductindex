@@ -96,3 +96,4 @@ Make sure your customers find your solution obviously better than the rest knowi
 ## Resources
 [1] - [Bottom Up or Top Down Market Analysis: Which Should You Use? | Inc.com](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html)
 [2] - [Market Size Estimation](https://www.planprojections.com/projections/market-size-estimation/)
+[3] - [Become a Product Manager | Learn the skills & get the job](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
