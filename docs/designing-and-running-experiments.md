@@ -90,11 +90,6 @@ MVPs will return quantitative data primarily that indicates user behaviour. Use 
 
 Since you need validated learning from real customers, you need to make sure they think the real product is ready or at least comming soon. How far you can go will determine which type of MVP fits best.
 
-**Considerations**:
-- Larger organizations have the resources to weather failed products
-- Some companies care a lot about how their brand is affected
-- Startups can use all their resources for MVPs
-
 **Email MVP**
 **Shadow button**
 **404 / Coming soon
@@ -104,15 +99,11 @@ Since you need validated learning from real customers, you need to make sure the
 **Piecemeal**
 **Wizard of oz**
 
-### How to start
-
-1. Product/Solution Ideation
-2. Identify Assumptions (the riskiest)
-3. Build hypothesis around them
-4. Establish Minimum Criteria of Success (MCS)
-5. Pick an MVP Strategy & Type
-6. Execute, evaluate and iterate
-
+**Final Considerations**:
+- Larger organizations have the resources to weather failed products
+- Some companies care a lot about how their brand is affected
+- Startups can use all their resources for MVPs
+- Always consider the opportunity cost of running an experiment over another
 
 ## Resources
 ### Articles
