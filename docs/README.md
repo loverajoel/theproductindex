@@ -6,78 +6,78 @@
 
 </div>
 
-What is Product Management?
-Product managers are like the conductor in an orchestra. The conductor never makes a sound but is responsible for making the orchestra as a whole sound awesome to deliver a great performance to the audience. [1]
+## What is a Product Manager?
 
-Great conductors understand and engage with everyone in the orchestra, using the right vocabulary with each section, diplomatically moving everyone together toward the shared goal of a great performance. [1]
+Product managers are responsibles for the ultimate success of the product. They are like the conductor in an orchestra: the conductor never makes a sound but is responsible for making the orchestra as a whole sound awesome to deliver a great performance to the audience.
 
-This means that you think about the big picture, break it down into small pieces, and then build those small pieces first. After building the small pieces, you combine them to get the big picture. Learning to code will give you consistent practice thinking this way. [1]
+Although they are not managers of anybody, product managers need to lead the team without authority. They act as communicators that put all the pieces together by getting feedback from everyone else. 
 
-Product Management is a perfect tool for helping teams in the day-to-day to direct technology development towards archiving business goals by focusing on customer needs. [2]
+> To discover a product that is valuable, usable and feasible - Marty Cagan
 
-## “The intersection point among business, technology and users experience”
-**Business**
-  - Maximising business value from a product.
-  - Obsessed with optimising a product to achieve the business goals while maximising return on investment.
-  - Modelling impact.
-  - Analyse data.
+Product management can be defined as the intersection between business, technology and user experience.
 
-**Technology**
-  - Understand the technology stack.
-  - Understand the level of effort involved to build X feature/product.
+<!-- image -->
 
-**User Experience**
-  - Product Manager is the voice of the user inside the business.
-  - Know the design pattern of your product.
-  - Know how to execute user research experience.
-  - Know how to prototype.
-  
-## Product Management Skills
-PMs know just **enough** of each discipline to be responsible for the entire product development system.
+#### Business
+Product managers should be obsessed with optimising a product to achieve the business goals while maximising return on investment. After all, product management is a business function above all.
 
-  - Live in the future and work backwards.
-  - Amplify your teams.
-  - Focus on impact.
-  - Write well.
-  - Drive a fast pace of high-quality decisions.
-  - Optimize for learning.
-  - Execute impeccably.
-  - Apply product taste.
-  - Exhibit data fluency.
-  - Immerse yourself in the tech
-  - Product intuition
+#### Technology
+Product managers need to understand the technology stack and the level of effort involved to make the right decisions. Beyond defining *what* to build, they need to know *how*.
 
-In summary: great PMs do whatever it takes to amplify their team’s impact on the customer experience and business.
+#### User Experience
+Product Managers are the voice of the user inside the business, which means they need to be out there testing the product, talking to users and getting feedback first hand.
+
+A good product manager must be experienced in at least one, passionate about all three, and conversant with practitioners in all.
+
+### What they do
+
+As a product manager you start with setting the vision for the product, which requires you to research your market, your customer and the problem they have that you’re trying to solve. You need to learn everything you can and use your creativity to come up with vision for the product.
+
+Then, you need to turn yourself into an evangelist and spread the word in the company. The success of your product, relies on every team member – from sales to engineering – understanding the vision.
+
+After that, you work on your product strategy to reach out that vision and creating a roadmap. This will allow you and your team to be one step at a time closer to that vision. As you and your team work on building the product, you will be defining and iterating the product, solving problems as they pop up and closely managing scope so product can get out on time.
+
+Once the product is out there, you need to look at how customers are using the product, going out and talking to them about the product.
+
+And then you do it all over again.
+
+## Product Manager vs. Project Manager
+
+Project managers are responsible for accomplishing the *project*, not a goal. A project usually has a timeline and a budget as a constraint. As a product manager, you have to have the skill of project manager in order to manage the execution of the different product releases. However, product managers are responsible for the success of the product, which is defined by key metrics.
+
+## Product Manager vs. Product Marketing Manager
+
+Product managers are responsible for defining the product to be built, and validating that product with real customers and users. Product Marketing Managers are responsible for telling the world about that product, including positioning, messaging and pricing, managing the product launch, providing tools for the sales channel to market and sell the product, and for leading key programs such as online marketing and influencer marketing programs.
 
 ## Types of Product Managers
-### According to the market
-#### Internal PM
-Generally advocates to the creation of internal tools for the company.
-#### B2B
-Most to the time your users won’t be your customer. Sales and Marketing will influence goals for your product.
-#### B2C
-More challenge, for millions of users, much pressure, uncertainly, extensive user testing.
 
-### According to the PM background
-#### Technical product manager
-This refers to a PM who has a strong technical background, and who works on a technical product. For example, this person might work on a software API where the end customer is a software developer. Technical PMs won’t be writing the code or performing technical tasks, but they need to understand the details of what goes into those tasks.
-    
-#### Strategic product manager
-This role is the complement to a technical PM, and it’s someone who has a strong business-oriented background.
+Based on the relationship and type of *stakeholders*, which are the people that have input on what you are building, there are different types of product managers: 
 
-#### Product marketing manager
-A PMM is very similar to a PM, but a PM tends to be more internally focused—getting the product built—while a PMM is externally focused—working with customers to understand their needs and to communicate the product’s value.
+#### Internal Product Manager
 
-## What is a product?
-## Product Intuition
-Product intuition is a skill, it is the observation of human behavior, trained by data, and applied to software.
-In order to learn, you need quick feedback when you’re wrong. Feedback comes faster by understanding your customer and testing your assumptions than by launching a product no one wanted and blaming it on the marketing team.  [2]
+It's usually one of the best way to start within the company your are working for already. Generally advocates to the creation of internal tools for the company since is less risky. 
+
+The number of users is small, but it's a great opportunity to learn a lot about technology and do a lot of project management.
+
+### Business to business Product Manager
+
+A good introduction role. Most of the time your users won’t be your customers and sales and marketing will influence goals for your product. You will be also dealing with tight deadlines and priorities based on revenue.
+
+The number of users is small, but it's a good opportunity to be creative.
+
+### Business to consumer Product Manager
+
+The most challenging role since there's a good amount of uncertainty and pressure. The company can lose money so the risk is higher.
+
+The number of users is often in the order of millions so you will be learning a lot, especially, doing extensive user testing.
 
 <hr>
 
 ## Resources
-#### Artilces
-- [1] The Product Book
-- [2] [Training your product intuition - Merci Victoria Grace - Medium](https://medium.com/@merci/training-your-product-intuition-276a7f8965b6)
-#### Podcasts
-- [1] The Product Book
+#### Articles
+- [1] - The Product Book
+- [2] - [What, exactly, is a Product Manager](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)
+- [3] - [What is a product manager and what do they do?](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)
+
+### Podcasts
+- [1] The Product Podcast
