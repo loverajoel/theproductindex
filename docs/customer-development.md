@@ -6,22 +6,17 @@
 
 </div>
 
-## What is customer development?
-Customer development is the practice of establishing a continuous and iterative communication line with your customer, so that you can come up with ideas, hypothesis, try them out, get feedback and adapt your product accordingly. [1]
+Customer Development is a framework developed by Steve Blank for:
+- Discovering and validating the right market for your idea
+- Building the right product that solve customers’ needs
+- Testing the correct model and tactics for acquiring and converting customers
+- Deploying the right organization and resources to scale the business
 
-Customer Development is a four-step framework developed by serial entrepreneur and business school Professor Steve Blank for discovering and validating the right market for your idea, building the right product features that solve customers’ needs, testing the correct model and tactics for acquiring and converting customers, and deploying the right organization and resources to scale the business. [2]
+Customer development is the practice of establishing a continuous and iterative communication line with your customer. This way you can come up with ideas and hypothesis to try them out and get feedback to adapt your product.
 
-At a high level, Customer Development is about questioning your core business assumptions.  In other words, Customer Development teaches that rather than assume your beliefs about your business to be true, you should apply an engineering, or scientific method, to what is really not a scientific endeavor (building a business), in order to validate the ideas. [2]
+At a high level, is about questioning your core business assumptions and understanding your customer — their problems and their needs. This understanding will allow you to create a solution that they care about.
 
-The process resembles the scientific method:
-  * Observing and describing a phenomenon.
-  * Formulating a causal hypothesis to explain the phenomenon.
-  * Using a hypothesis to predict the results of new observations.
-  * Measuring prediction performance based on experimental tests.
-
-Customer Development is all about understanding your customer — their problems and their needs. This understanding will allow you to create a solution that they care about. [3]
-
-> Customer development lets you save money and time while deciding the market need. [3]
+> Customer development lets you save money and time while deciding the market need
 
 ## Four stages of Customer Development
 
@@ -35,118 +30,146 @@ When building a business, the process is used to discover, test and validate the
   * A specific product solves a known problem for an identifiable group of users (Customer Discovery)
   * The market is scaleable and large enough that a viable business might be built (Customer Validation)
   * The business is scalable through a repeatable sales and marketing roadmap (Company Creation)
-  * Company departments and operational processes are created to support scale (Company Building) [2]
+  * Company departments and operational processes are created to support scale (Company Building)
 
-## Customer Discovery
-Customer discovery is applying scientific method to business, is the most lean and efficient method to get user needs. During this process we will generate measurable data to confirm or deny your hypothesis.
+## Identify the problem
 
-Customer Discovery phase is composed by the next four steps:
-  - State problem hypothesis.
-  - Test the problem hypothesis
-  - Test solution
-  - Verify you hypothesis or pivot
+Product ideas can come from different areas within the company, competitors and customers. However, one thing is certain: they need to solve a real problem or painpoint.
 
-The final goal of customer discovery is figure out:
+### Customer Discovery
+
+Customer discovery is the most lean and efficient method to get user needs. During this process we will generate measurable data to confirm or deny your hypothesis.
+
+Steps:
+  1. State problem hypothesis.
+  2. Test the problem hypothesis
+  3. Test solution
+  4. Verify you hypothesis or pivot
+
+Once you identify that you can solve a problem to your users and they are willing to pay, you can move to the Customer Validation phase.
+
+The ultimate goal of customer discovery is to figure out:
   - Who are your customers?
-  - Is the problem you’re solving important to them?
-  - Extra and important: Will customer pay for your solution?
+  - What problems they have?
+  - Why they would buy?
 
-Forming a problem hypothesis is the correct way to learn about user needs.
+### Create a problem hypothesis
 
-### What is a Problem Hypothesis
-Problem Hypothesis is the starting point of customer development. Starting with a Problem Hypothesis you starts being concern about the user problems and not in product what is a common mistake.
-
-To create a problem hypothesis you should define:
+Problem Hypothesis is the starting point of customer development. To create a problem hypothesis you should define:
   - Who are your users.
-  - What are their needs, goals, or desires.
+  - What are their needs, goals and desires.
 
-**The Problem Hypothesis format**
+**The Problem Hypothesis template**
 
-As a [user type] I want [behavior] so that [outcome or benefit].
+> As a [user type] I want [behavior] so that [outcome or benefit]
 
-Once you have formulated the correct hypothesis you will create surveys and interviews to validate the user needs and goals.
+Once you have formulated a correct hypothesis, conduct User Research to validate user needs and goals.
 
 ## User research
-Avoid guessing at what a user needs, nothing is more important than research, look for data to confirm you assumptions and talk to your customer is the key to the success of customer discovery.
 
-We divide the research on two steps, the first one Secondary Research is the initial research, you can start to validate your assumptions with research that already exists, then Primary Research, when you directly talk with your customers to start to validate your hypothesis and look for opportunities.
+Avoid guessing at what a user needs and look for data to confirm you assumptions. Talking to your users is key to a successful customer discovery.
 
-To validate your assumptions you should be sure about:
-  - You had identified a problem the customer wants solve.
-  - Does you product solves the customers’ needs?
-  - Is your business model viable?
-  - Have you learned enough to begin selling it?
+There are two types; Primary and Secondary Research. Primary Research is when you directly talk with your customers to validate your hypothesis and look for opportunities. Secondary Research is when you make use of existing and available research from the industry.
 
-### Defining the target market
-It’s important to get feedback from your target users about their problem and not for an unspecific  market. You should determines if someone would be a good candidate for user feedback, usually this process is called Screener.
+### Defining your target audience
 
-We used to define our target audience based on demographics, The latest way to segment the target audience is about the attitude or the way they see the world, this segmentation is called Psychographics.
+It’s important to get early feedback from your target users and their problems. To do so, you should filter your audience using a process called *Screener* to determine whether someone would be a good candidate for user feedback or not.
 
-**Psychographics**
+A good approach is to start with demographics first, then find patterns on their responses during user research that represents attitudes, aspirations and psychological profile (i.e., people whi believe in global warming). This way of segmentation is called *Psychographics*.
 
-People are classified by their attitudes, aspirations and psychological data. Ex: People who believe in global warming.
+The bottom line is, the more specific your are when approaching your audience, the better.
 
-### Secondary Research Technique
-As a PM always start from here, using data that already exists
-**Secondary Research**
-  - Academic research.
-  - Private research firms.
-  - Consumer reports.
-  - Expert interviews.
+### Secondary Research
+
+As a product manager always start from here, using data that already exists:
+  - Academic research
+  - Private research firms
+  - Consumer reports
+  - Expert interviews
+
+Expert interviews will help you avoid common pitfalls and refine your problem hypothesis and target audience. 
   
-### Primary Research Technique
-After the Secondary Research, you start to talk directly with you target user with two common methods:
-  - Surveys
-    - Measure attitudes.
-    - Collecting quantitative feedback.
-    - Understand the degree of user beliefs.
-  - Interviews
-    - Open end questions.
-    - Allow the user speak freely.
-    - Watch the user language.
-    - Tailor the conversation.
-    - Dive more deeply with questions.
-    
-## Surveys
-Before you create a survey you should ask yourself what questions do you want answer with it and figure out whatever or not the survey is the right tool or not.
+### Primary Research
 
-Surveys are good for:
-  - Measure attitude, intent, or task success.
-    - How the user feel about this?
-    - How important is this for the user?
-    - How successful is the user at complete this task?
-  - Track changes over time.
-    - Maybe over your product or specific features.
-  - Quantify user problems.
+The most important type of reserach: direct feedback from users. You must collect quantitative and qualitative data from your users if you want to really understand their needs. No excuses.
 
-Surveys should be short(less than 5 minutes) and for a specific purpose or insight.
+Identifying good channels early helps you later develop them as needed.
 
-## User Interviews
-To truly understand the user needs and goals you need to talk to your customers, customer interview is the most flexible and accurate tool to do that.
+#### Surveys
 
-- Don’t talk about your product -> Talk about what they want, what they need.
-- Don’t talk about your opinion.
-- Create a comfortable environment.
-- Don’t force the conversation, guide it.
+Before you create a survey you should ask yourself what questions do you want answer with it and figure out whether or not the survey is the right tool to do it.
 
-### Good questions, bad questions
+**What they're good for**:
+  - Measure attitudes, intent, or task success
+  - Quantify user problems
+  - Track changes over time
 
-1. Ask open-ended questions
-2. Don’t ask binary questions
-3. Don’t ask hypothetical questions
-4. Don’t ask leading questions
-5. Don’t ask questions that might make them lie
-6. Extra, always say: Thats interesting, tell me more
+**What they're not good for**:
+  - Discover reasons behind needs
+  - Learn if your product can be used effectively
+  - Understand user behaviour
 
-### Four types of Interviews
-1. Exploratory Interview
-Open questions, look for pain points, are they up for pay for a solution?
-2. Validation Interview
-You have a theory and you want to test it out, approve or disapprove.
-3. Satisfaction oriented interview
-What users think about your product. What should we stop doing? What I can do better for you?
-4. Efficiency Interview
-Who uses your product? What they do with it? In what circumstances. How easy is to use feature X?
+**They should be**:
+  - Short (less than 5 minutes)
+  - Specific
+  - Questions grouped together
+  - Broad questions before specific
+  - Quantitative
+
+#### User Interviews
+Interviews are the most flexible and accurate tool to understand your user's needs and goals.
+
+**They should**:
+  - Be open-ended questions
+  - Allow the user speak freely
+  - Watch the user language
+  - Tailor the conversation
+  - Dive more deeply with questions.
+
+**Template for running interviews**
+1. Learning objective: What are you trying to learn?
+2. Introduction: There are no right answers. Build rapport.
+3. Questions: Start easy, open-ended, ask follow up questions and ask for personal contact info.
+
+Make use of the *intensity arc*; begin with easy questions, place the hardest questions in the middle and end up with follow-up questions that includes personal contact info.
+
+**Preparing for interviews**
+1. Get into research mode -> Friendly, engaging and casual
+2. Take notes or record the session if possible
+3. Stay positive and avoid bias
+4. Listen to all user feedback without judgment
+5. Pay attention to body language: do not intimidate nor go too fast
+6. Make eye-contact
+7. Express gratitude for their time
+8. Encourage them when they are having hard time answering 
+9. Don't ask leading or hypothetical questions
+10. Always seek clarity, i.e., "That's interesting, please, tell me more".
+
+> Avoid conclusions before the interview ends!
+
+**Analyzing data**
+After a while, patterns begin to emerge; same problems mentioned, users actively seeking potential solutions, unhappy users with the current solution and users with available budget to solve the problem.
+
+**Types of Interviews**
+- Exploratory Interview: Open questions, look for pain points, are they up for pay for a solution?
+- Validation Interview: You have a theory and you want to test it out, approve or disapprove.
+- Satisfaction oriented interview: What users think about your product. What should we stop doing? What I can do better for you?
+- Efficiency Interview: Who uses your product? What they do with it? In what circumstances? How easy is to use feature X?
+
+
+## User Personas
+
+The purpose of User Personas is to make more convenient to talk about certain user behaviors and also increase empathy with your users.
+
+In order to create a user persona:
+1. Observe a large number of users and find a frequent user behavior
+2. Pretend that it is one fictional user doing that thing and name that fictional user with a real name
+3. Give them a description like how they like to use your product and what matters to them.
+4. Give them a bit of background information. 
+
+You're actually creating a fake person here.
+
+> User personas are just aggregates of observed user behavior.
 
 ### Resources
 1. [Become a Product Manager | Learn the Skills & Get the Job | Udemy](https://www.udemy.com/become-a-product-manager-learn-the-skills-get-a-job/)

@@ -1,54 +1,53 @@
-# Product Metrics and KPI
+# Metrics & Measurement
 
 ## What are metrics?
-Metrics are the measurement of different aspects of your product. These might include things within your product, like how many people complete a task, or things affected by your product, like how much revenue you’re making. Success metrics, sometimes called key performance indicators (KPIs), are the key metrics that define how we keep score, like how many goals you scored in a soccer game.  [1]
+
+Metrics are the measurement of different aspects of your product. These might include things like how many people complete a task, or how much revenue you’re making. Success metrics, also called Key Performance Indicators (KPIs), are the key metrics that define how we know we win.
+
+> If you can’t measure it, you can’t improve it – Peter Drucker
+
+What you measure is what you end up optimizing for. Get a handle on your metrics early, and you’ll lay the foundations for authentic growth to follow.
+
+> In God we trust, all others must bring data – Edwards Deming
 
 ### Vanity vs. Actionable Metrics
-Vanity metrics are those that sound useful, and might be great for some other business need, but don’t help us measure product performance. Actionable metrics are real data we can use to make decisions. [1]
 
-## HEART
-> Google’s HEART Framework helps measure the quality of user experience.
+Vanity metrics are those that feel good, and might be great for some other business need, but don’t help us measure product performance. They’re easily manipulated, and they don’t bear a direct correlation with numbers that speak to business success.
 
-The idea is a simple one; to deliver a series of user-centred metrics that allow you to measure the user experience on a large scale. These metrics can then be used for decision making in the product development process. [2]
+On the other hand, actionable metrics are real data we can use to make decisions. They link directly to business success and speak to customer or audience behavior. They are usually very close to revenue and costs.
 
-[image:0AEB2814-FF96-46E3-9B5D-DEC9D804492E-16974-000143BCAE622621/59B095E2-4E9A-4CD4-B052-8C6C88008285.png]
-[4]
+For each vanity metric, there’s a corresponding actionable metric that really tells you something important about what’s happening in your business. A classic example is *trial users* vs. *converting users*.
 
-### The Heart Metrics [2]
-There are five metrics used in the HEART framework:
+Track metrics that help you optimize your business for success and aren’t a meaningless distraction.
 
-**Happiness:** How do users feel about your product? Happiness is typically measured by user satisfaction surveys, app ratings and reviews, and net promoter score.
+### Proxy Metrics
 
-**Engagement:** How often are people coming back to use the product? Engagement can be measured by number of visits per user per week, session length, or a key action, like the number of photos uploaded or songs listened to per user per day.
+Common metrics sometimes share one common problem: they are lagging indicators. By the time these metrics have been tracked, it’s too late to correct the customer experience. If there’s a lot of latency between the time a customer provides feedback and it reaches product management or marketing, there’s a potential to overcorrect and waste a lot of time and energy.
 
-**Adoption:** How many people complete the onboarding process and become regular users? Adoption is measured by number of new users over a period of time or percentage of customers using a new feature.
+Proxy metrics are powerful for four reasons:
 
-**Retention:** What percentage of users are returning to the product? Retention is measured by churn.
+1. They are easy to measure
+2. They are correlated to (and ideally predictive of) the business’ goals
+3. They are concrete and create a unifying vision for the team
+4. They enable businesses to iterate faster by reducing latency
 
-**Task success:** Can users achieve their goal or task quickly and easily? Task success is measured by factors like efficiency (how long it takes users to complete the task) effectiveness (percent of tasks completed), and error rate.
+Proxy metrics are powerful because they enable businesses to use an upstream-metric to predict a downstream outcome, which reduces latency and accelerates experimentation cycle times. Faster experiments means discovering the right growth strategies sooner, and that’s a critical competitive advantage for every startup.
 
-### How to Use the HEART Framework [2]
-#### Step 1: Set Goals
-Setting goals up front is a great way to get every member of your team on the same page. Is it more important to attract new users, or increase engagement for existing users? What tasks do you want new users to complete? Remember that goals for a particular product or feature update may be different than the goals you have for your overall app.
-It’s important to narrow down your list of goals to no more than 3.
+### The only metric that matters
 
-#### Step 2: Define Signals
-Every goal has related user actions. Mapping your goals to those actions can let you know whether you’re on track. What behaviors or attitudes would indicate your goal has been met or failed?
+How many people are really using your product? 
 
-#### Step 3: Choose Metrics
-Finally, distill signals into trackable metrics that you can monitor in a real-time dashboard.
+You need a metric that specifically answers this. Don't overcomplicate it. 
 
-The HEART framework is a useful framework because it’s simple and easy to understand. That makes communicating the reasons for selecting it easy across teams. While the framework may be designed for large projects; there’s nothing to stop it being implemented on smaller projects either – it’s just that the methods used for data collection are likely to vary. [3]
+Whatever it is, it should be a signal that they are using their product in the way you expected and that they use it enough so that you believe they will come back to use it more and more.
 
-## AARRR
-## NPS
-## GAME
+Only then, you can really track your growth on a day-to-day, week-over-week, month-over-month basis.
 
-## ## Resources
+## Resources
 ### Articles
-- [2] - [How to Use the Google HEART Framework to Improve UX | CleverTap](https://clevertap.com/blog/google-heart-framework/)
-- [3] - [Google’s HEART Framework for Measuring UX | Interaction Design Foundation](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
-- [4] - [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/#quality)
+- [1] - [How to create competitive advantage for your startup with proxy metrics](https://tomtunguz.com/proxy-metrics/)
+- [2] - [What is a Vanity Metric?](https://www.crazyegg.com/blog/glossary/what-is-a-vanity-metric/)
 
 ### Books
-- [1] - The Product Book
+- [3] - The Product Book
+- [4] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)
