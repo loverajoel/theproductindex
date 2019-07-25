@@ -1,3 +1,8 @@
+---
+layout: page
+title: Introduction to Product Development
+---
+
 # Introduction to Product Development
 
 Building products with a lean approach is more successful because you’re not risking everything on a potentially long, slow-to-create project. Instead, you risk a little bit to build something small, learn from it, and iterate.

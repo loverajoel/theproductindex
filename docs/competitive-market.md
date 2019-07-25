@@ -1,3 +1,8 @@
+---
+layout: page
+title: Competitive and Market Analysis
+---
+
 # Competitive and Market Analysis
 
 A big part of product management is making sure that the market you're attempting to address is large enough to make it worth going into.

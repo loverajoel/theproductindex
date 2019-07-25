@@ -1,3 +1,8 @@
+---
+layout: page
+title: Growth
+---
+
 # Growth
 
 If your business isn’t growing, nothing else matters. It's most important problem that businesses at all stages of their development faces.

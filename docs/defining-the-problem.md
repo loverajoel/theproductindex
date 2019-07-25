@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mastering the problem space
+---
+
 # Mastering the problem space
 
 As product managers, our goal is to explore the problem space to open up to divergent thinking and embrace new ideas. Based on our customers needs are the benefits we should think of when building solution.

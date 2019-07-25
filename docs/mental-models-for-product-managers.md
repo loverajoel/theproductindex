@@ -1,3 +1,8 @@
+---
+layout: page
+title: Metal Models for Product Managers
+---
+
 # Metal Models for Product Managers
 
 A mental model is a representation of how something works for someone based on their context. Just as thoughts flow freely, mental models take different forms in different contexts, depending upon the person’s understanding of the world.

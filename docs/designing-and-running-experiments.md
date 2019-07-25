@@ -1,3 +1,8 @@
+---
+layout: page
+title: Designing and running experiments
+---
+
 # Testing and Optimization
 
 The quickest way to stunt your product's growth is resting on your laurels. So, what experiment will you run next?

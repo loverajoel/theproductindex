@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ideas and User Needs
+---
+
 # Ideas and User Needs
 
 Typically, new ideas can come from anywhere—company executives, discussions with customers, usability testing, your own product team, your sales or marketing staff, industry analysts, to name a few. But then the product manager needs to take a hard look at the idea and decide if it is something worth pursuing.

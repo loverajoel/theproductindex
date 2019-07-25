@@ -1,3 +1,8 @@
+---
+layout: page
+title: Customer Development
+---
+
 # Customer Development
 
 <div class="img-post">

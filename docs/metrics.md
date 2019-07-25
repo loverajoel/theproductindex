@@ -1,3 +1,8 @@
+---
+layout: page
+title: Metrics & Measurement
+---
+
 # Metrics & Measurement
 
 ## What are metrics?

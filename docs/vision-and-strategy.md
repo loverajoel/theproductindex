@@ -1,3 +1,8 @@
+---
+layout: page
+title: Product Vision & Strategy 
+---
+
 # Product Vision & Strategy 
 
 One of the first things a great product manager should do before even thinking about a product is to understand the company that makes it. Every company is a little bit different, and they have different priorities, values, strengths, and weaknesses. 
