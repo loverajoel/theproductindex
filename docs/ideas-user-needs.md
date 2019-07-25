@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ideas and User Needs
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Ideas and User Needs

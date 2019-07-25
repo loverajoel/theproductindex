@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Introduction to Product Development
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Introduction to Product Development

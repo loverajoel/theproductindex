@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Metal Models for Product Managers
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Metal Models for Product Managers

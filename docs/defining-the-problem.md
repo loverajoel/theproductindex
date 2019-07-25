@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Mastering the problem space
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Mastering the problem space

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Competitive and Market Analysis
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Competitive and Market Analysis

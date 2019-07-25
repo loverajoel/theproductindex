@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Customer Development
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Customer Development

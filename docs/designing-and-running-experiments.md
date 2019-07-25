@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Designing and running experiments
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Testing and Optimization

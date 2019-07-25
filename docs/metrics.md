@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Metrics & Measurement
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Metrics & Measurement

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Growth
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Growth

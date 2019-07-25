@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Product Vision & Strategy 
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
 ---
 
 # Product Vision & Strategy 

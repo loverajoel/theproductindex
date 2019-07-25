@@ -1,3 +1,10 @@
+---
+layout: page
+title: Introduction to Product Management
+excerpt: An organized compilation of notes, articles, podcasts and books.
+type: home-section
+---
+
 # Introduction to Product Management
 
 <div class="img-post">
