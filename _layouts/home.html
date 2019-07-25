@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-home
 ---
 
 <div class="home">
@@ -10,26 +10,22 @@ layout: default
   {{ content }}
 
   {%- if site.pages.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "pages" }}</h2> -->
     <ul class="post-list">
       {%- for page in site.pages -%}
       {% if page.type contains "home-section" %}
-      <li>
+      <li style="background-image: url({{ page.image }})">
+
         <h3>{{ page.title | escape }}</h3>
         <span>{{ page.excerpt }}</span>
 
-        <a href="{{ page.url | relative_url }}">Read more</a>
+        <a style="color: #{{ page.color }}" href="{{ page.url | relative_url }}">Start to read</a>
+        <div class="color-back" style="background-color: #{{ page.color }}"></div>
       </li>
 
       {% endif %}
       {%- endfor -%}
     </ul>
 
-    <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
-      </a>
-    </p>
   {%- endif -%}
 
 </div>

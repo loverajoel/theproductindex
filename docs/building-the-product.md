@@ -2,14 +2,29 @@
 layout: page
 title: Introduction to Product Development
 excerpt: An organized compilation of notes, articles, podcasts and books.
-type: home-section
----
 
-# Introduction to Product Development
+type: home-section
+color: D6813D
+image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+---
 
 Building products with a lean approach is more successful because you’re not risking everything on a potentially long, slow-to-create project. Instead, you risk a little bit to build something small, learn from it, and iterate.
 
 > A product isn’t a collection of features; it’s an experience from the first touchpoint to the very end.
+
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Lorem ipsum dolor sit amet, consectetur](#)
+  - [Lorem ipsum dolor sit amet, consectetur](#)
+  - [Lorem ipsum dolor sit amet, consectetur](#)
+2. [Lorem ipsum dolor sit amet, consectetur](#)
+  - [Lorem ipsum dolor sit amet, consectetur](#)
+3. [Lorem ipsum dolor sit amet, consectetur](#)
+  - [Lorem ipsum dolor sit amet, consectetur](#)
+4. [Lorem ipsum dolor sit amet, consectetur](#)
+</div>
+
 
 ## Product Development Processes
 

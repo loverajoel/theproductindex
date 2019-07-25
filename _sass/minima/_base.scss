@@ -27,6 +27,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  -webkit-font-smoothing: antialiased;
 }
 
 
@@ -42,6 +43,10 @@ ul, ol, dl, figure,
 }
 
 
+p, blockquote, pre,
+ul, ol, dl, figure {
+  color: $text-color !important;
+}
 
 /**
  * `main` element
@@ -189,6 +194,13 @@ pre {
     margin-left: auto;
     padding-right: 0;
     padding-left: 0;
+  }
+}
+
+.section-content {
+  .wrapper {
+    max-width: 900px;
+    padding: 0 50px;
   }
 }
 

@@ -2,16 +2,13 @@
 layout: page
 title: Introduction to Product Management
 excerpt: An organized compilation of notes, articles, podcasts and books.
+
 type: home-section
+color: 4B6584
+image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---
 
-# Introduction to Product Management
-
-<div class="img-post">
-
-  ![](images/undraw_mission_impossible_bwa2.svg)
-
-</div>
+<!-- # Introduction to Product Management -->
 
 ## What is a Product Manager?
 
@@ -23,7 +20,6 @@ Although they are not managers of anybody, product managers need to lead the tea
 
 Product management can be defined as the intersection between business, technology and user experience.
 
-<!-- image -->
 
 #### Business
 Product managers should be obsessed with optimising a product to achieve the business goals while maximising return on investment. After all, product management is a business function above all.
