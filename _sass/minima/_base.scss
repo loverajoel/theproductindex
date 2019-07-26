@@ -48,6 +48,10 @@ ul, ol, dl, figure {
   color: $text-color !important;
 }
 
+h1, h2, h3, h4, h5, h6, {
+  color: var(--section-color);
+}
+
 /**
  * `main` element
  */
@@ -251,23 +255,29 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
-  tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
-    }
-  }
+  font-size: 15px;
+  
   th, td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: 10px 10px 10px 0;
   }
-  th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
-  }
+
   td {
-    border: 1px solid $grey-color-light;
+    white-space:nowrap
+  }
+
+  td:nth-child(2) {
+    width: 100%
+  }
+
+  img {
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+  }
+
+  a {
+    font-weight: bold;
+    text-decoration: underline;
   }
 }

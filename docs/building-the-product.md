@@ -102,8 +102,9 @@ Waterfall works best for projects completed in a linear fashion and does not all
 
 
 ## Resources
-- [1] - [How to Use the Product-Life Cycle](https://www.interaction-design.org/literature/article/how-to-use-the-product-life-cycle) 
-- [2] - [What is Dual Track Agile?](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)
-- [3] - [Lean, Agile, & Design Thinking](https://www.mindtheproduct.com/2019/06/lean-agile-design-thinking-by-jeff-gothelf/)
-- [4] - [Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
-- [5] - [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[How to Use the Product-Life Cycle](https://www.interaction-design.org/literature/article/how-to-use-the-product-life-cycle)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What is Dual Track Agile?](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Lean, Agile, & Design Thinking](https://www.mindtheproduct.com/2019/06/lean-agile-design-thinking-by-jeff-gothelf/)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)|3 mins read|
