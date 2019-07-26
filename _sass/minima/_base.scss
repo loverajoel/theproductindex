@@ -198,6 +198,11 @@ pre {
 }
 
 .section-content {
+
+  @media screen and (max-width: $on-large) {
+    padding: 0px !important
+  }
+
   .wrapper {
     max-width: 900px;
     padding: 0 50px;
