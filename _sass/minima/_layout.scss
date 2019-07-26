@@ -11,7 +11,7 @@
   position: relative;
 
   .wrapper {
-    max-width: 900px
+    max-width: 800px
   }
 }
 
@@ -28,9 +28,8 @@
     padding-right: 45px;
   }
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
+  &:hover {
+    text-decoration: none;
   }
 }
 
@@ -341,5 +340,14 @@
     border-radius: 20px;
     font-weight: bold;
     font-size: 13px;
+  }
+}
+
+blockquote {
+  border-left: 4px solid var(--section-color);
+  font-style: normal !important;
+  margin: 40px 0;
+  p {
+    color: var(--section-color) !important;
   }
 }

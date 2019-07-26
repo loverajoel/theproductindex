@@ -50,6 +50,7 @@ ul, ol, dl, figure {
 
 h1, h2, h3, h4, h5, h6, {
   color: var(--section-color);
+  font-weight: 500 !important;
 }
 
 /**
@@ -208,7 +209,7 @@ pre {
   }
 
   .wrapper {
-    max-width: 900px;
+    max-width: 800px;
     padding: 0 50px;
   }
 }
