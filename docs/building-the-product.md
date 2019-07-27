@@ -4,6 +4,7 @@ title: Introduction to Product Development
 excerpt: An organized compilation of notes, articles, podcasts and books.
 
 type: home-section
+order: 2
 color: D6813D
 image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---

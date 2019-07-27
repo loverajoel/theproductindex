@@ -248,7 +248,7 @@
     grid-auto-flow: dense;
 
     @media screen and (max-width: $on-large) {
-      display: block;
+      grid-template-columns: 100%;
     }
 
     li {
@@ -271,8 +271,8 @@
       }
 
       @media screen and (max-width: $on-large) {
-        min-height: 200px;
-        margin: 30px 0;
+        grid-column-end: span 1 !important;
+        grid-row-end: span 3 !important;
       }
 
       h3 {
@@ -289,6 +289,8 @@
         width: 100%;
         z-index: 2;
         position: relative;
+        line-height: 1.2 !important;
+        display: inline-block;
       }
 
       a {

@@ -14,7 +14,7 @@ layout: default-home
     <ul class="post-list">
       {%- for page in site.pages -%}
       {% if page.type contains "home-section" %}
-      <li style="background-image: url({{ page.image }})">
+      <li style="background-image: url({{ page.image }}); order: {{ page.order }}">
 
         <h3>{{ page.title | escape }}</h3>
         <span>{{ page.excerpt }}</span>

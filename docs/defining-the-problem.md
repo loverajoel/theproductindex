@@ -2,7 +2,11 @@
 layout: page
 title: Mastering the problem space
 excerpt: An organized compilation of notes, articles, podcasts and books.
+
 type: home-section
+order: 8
+color: 4B6584
+image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---
 
 # Mastering the problem space

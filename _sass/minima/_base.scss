@@ -280,5 +280,9 @@ table {
   a {
     font-weight: bold;
     text-decoration: underline;
+    
+    &:visited {
+      /*text-decoration: line-through;*/
+    }
   }
 }
