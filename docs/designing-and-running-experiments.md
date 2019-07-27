@@ -5,8 +5,8 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 
 type: home-section
 order: 7
-color: 4B6584
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+color: a764a5
+image: https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?fit=crop&w=300&q=80
 ---
 
 # Testing and Optimization

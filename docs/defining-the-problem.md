@@ -5,8 +5,8 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 
 type: home-section
 order: 8
-color: 4B6584
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+color: a5a25c
+image: https://images.unsplash.com/photo-1500021804447-2ca2eaaaabeb?fit=crop&w=300&q=80
 ---
 
 # Mastering the problem space

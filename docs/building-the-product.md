@@ -6,7 +6,7 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 type: home-section
 order: 2
 color: D6813D
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+image: https://images.unsplash.com/photo-1503551723145-6c040742065b?fit=crop&w=300&q=80
 ---
 
 Building products with a lean approach is more successful because you’re not risking everything on a potentially long, slow-to-create project. Instead, you risk a little bit to build something small, learn from it, and iterate.

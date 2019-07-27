@@ -5,8 +5,8 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 
 type: home-section
 order: 6
-color: 4B6584
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+color: 5f90a2
+image: https://images.unsplash.com/photo-1504257365157-1496a50d48f2?fit=crop&w=300&q=80
 ---
 
 # Growth

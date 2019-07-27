@@ -6,7 +6,7 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 type: home-section
 order: 9
 color: D6813D
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+image: https://images.unsplash.com/photo-1557804506-669a67965ba0?fit=crop&w=300&q=80
 ---
 
 # Customer Development

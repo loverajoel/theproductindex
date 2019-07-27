@@ -211,6 +211,10 @@ pre {
   .wrapper {
     max-width: 800px;
     padding: 0 50px;
+
+    @media screen and (max-width: $on-large) {
+      padding: 0 30px;
+    }
   }
 }
 

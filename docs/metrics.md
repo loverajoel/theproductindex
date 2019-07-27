@@ -5,8 +5,8 @@ excerpt: An organized compilation of notes, articles, podcasts and books.
 
 type: home-section
 order: 3
-color: 4B6584
-image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
+color: 84ad7a
+image: https://images.unsplash.com/photo-1543286386-2e659306cd6c?fit=crop&w=300&q=80
 ---
 
 # Metrics & Measurement
