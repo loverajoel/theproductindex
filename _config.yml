@@ -16,7 +16,7 @@
 title: The product index
 email: joelalovera@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An organized compilation of notes, articles, podcasts and books.
+  An open and organized directory of the best pieces about Product Management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theproductindex.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: loverajoel
