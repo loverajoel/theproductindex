@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Product Development
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: How do you launch a product from scratch? Learn how to develop products from an idea to market release and more.
 
 type: home-section
 order: 2

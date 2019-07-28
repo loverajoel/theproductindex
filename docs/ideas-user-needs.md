@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ideas and User Needs
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: Where ideas come from? Learn how to decide when an idea is worth pursuing.
 
 type: home-section
 order: 5

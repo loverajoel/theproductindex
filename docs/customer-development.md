@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Customer Development
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: How do you build strong customer relationships? Learn to understand your customers and their needs.
 
 type: home-section
 order: 9
