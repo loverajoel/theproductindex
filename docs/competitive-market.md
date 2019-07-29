@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Competitive and Market Analysis
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: What makes you different from your competitors? How promising is the market? Learn to understand the market and your competitors.
 
 type: home-section
 order: 10

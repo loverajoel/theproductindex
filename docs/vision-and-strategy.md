@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Product Vision & Strategy 
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: How to provide direction and inspiration for your team? Learn where product managers apply the most leverage.
 
 type: home-section
 order: 11

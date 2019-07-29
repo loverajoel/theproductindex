@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metrics & Measurement
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: What you should be measuring? Learn about the only metric that matters.
 
 type: home-section
 order: 3

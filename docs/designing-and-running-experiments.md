@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Designing and running experiments
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: How often are you learning? Learn how to gain valuable insights for your product.
 
 type: home-section
 order: 7
@@ -15,7 +15,7 @@ The quickest way to stunt your product's growth is resting on your laurels. So, 
 
 Experiments can provide valuable insights for your product. However, many companies run experiments without gaining any real insights which propel the product forward or achieve any interesting, insightful results.
 
-Experiments should be run to try and find insights into problems and answers to interesting questions which help the company  to achieve their goals.
+Experiments should be run to try and find insights into problems and answers to interesting questions which help the company to achieve their goals.
 
 For startups, small optimization projects just don’t make sense. The the time, money and headspace spent trying to tweak something that yet have to prove their worth is better spent elsewhere.
 

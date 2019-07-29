@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Product Management
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: What is a product manager and what they do? Learn what makes this role so unique.
 
 type: home-section
 order: 1

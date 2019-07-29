@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Growth
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: Where your should focus your efforts? Learn how to build a strong foundation for growth.
 
 type: home-section
 order: 6
@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1504257365157-1496a50d48f2?fit=crop&w=3
 
 # Growth
 
-If your business isn’t growing, nothing else matters. It's most important problem that businesses at all stages of their development faces.
+If your business isn’t growing, nothing else matters. It's the most important problem that businesses at all stages of their development faces.
 
 To understand growth we need:
 **A fundamental understanding of your product and the reasons people use it**: Knowing your true product value allows you to design the experiments necessary so that you can properly isolate cause and effect.
@@ -101,7 +101,7 @@ The second thing to know about pricing is that you need to keep iterating on it 
 - [1] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)
 
 ## Articles
-- [1] - [Data shows our addiction t oacquisition based growth is getting worse](https://www.priceintelligently.com/blog/saas-growth-focused-too-much-on-acquisition)
+- [1] - [Data shows our addiction to acquisition based growth is getting worse](https://www.priceintelligently.com/blog/saas-growth-focused-too-much-on-acquisition)
 - [2] - [Activate or Die: 10+ Ways You Can Improve Your User Activation for SaaS](https://500.co/activate-or-die-10-plus-ways-to-improve-user-activation-for-saas-part-2/)
 - [3] - [Reduce churn by re-engaging your customers](https://www.intercom.com/blog/churn-retention-and-reengaging-customers/)\
 - [4] - [Ten year's of learnings about pricing](https://tomtunguz.com/pricing-summary/)
