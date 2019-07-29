@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mastering the problem space
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: Which is your product's value proposition? Learn why you need to focus on the problem first.
 
 type: home-section
 order: 8

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metal Models for Product Managers
-excerpt: An organized compilation of notes, articles, podcasts and books.
+excerpt: How to make intelligent decisions? Learn which mental models are most helpful for product managers.
 
 type: home-section
 order: 4
