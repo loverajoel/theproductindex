@@ -119,20 +119,8 @@ The number of users is often high, so the risk is higher.
 
 This is just a superficial introduction to the what Product Management is. Please, take the time to learn from the resources below. We keep them up to date!
 
-<br>
-<br>
-<hr>
-<br>
-<br>
-
 ### Resources
-#### Articles
-- The Product Book
-- [What, exactly, is a Product Manager](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)
-- [What is a product manager and what do they do?](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)
 
-#### Podcasts
-- The Product Podcast
-
-#### Books
-- [Inspired: How To Create Products Customers Love by Marty Cagan](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What, exactly, is a Product Manager](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What is a product manager and what do they do?](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/book.png)|[Inspired: How To Create Products Customers Love by Marty Cagan](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|3 mins read|
