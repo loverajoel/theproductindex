@@ -43,9 +43,7 @@ Product managers don't manage people. They need to lead the team without authori
 
 Think about Product Management as the intersection between business, technology and user experience:
 
-<div class="img-post">
-	<img src="images/what_is_a_product_manager.png">
-</div>
+![](images/what_is_a_product_manager.png)
 
 #### Business
 Product Managers achieve business goals while maximising return on investment (ROI). This is why product optimization is so important.
