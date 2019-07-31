@@ -43,7 +43,8 @@ Product managers don't manage people. They need to lead the team without authori
 
 Think about Product Management as the intersection between business, technology and user experience:
 
-![](images/what_is_a_product_manager.png)
+![](images/what_is_a_product_manager.png "The intersection between business, technology and user experience")
+[From Martin Eriksson’s article. Resources section.](#resources)
 
 #### Business
 Product Managers achieve business goals while maximising return on investment (ROI). This is why product optimization is so important.
@@ -115,12 +116,23 @@ This a great opportunity to learn, especially doing user testing.
 
 The number of users is often high, so the risk is higher.
 
-## Next steps
+>
 
-This is just a superficial introduction to the what Product Management is. Please, take the time to learn from the resources below. We keep them up to date!
+---
 
-### Resources
+>
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What, exactly, is a Product Manager](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What is a product manager and what do they do?](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/book.png)|[Inspired: How To Create Products Customers Love by Marty Cagan](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|3 mins read|
+
+This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
+
+
+
+#### Resources
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|
