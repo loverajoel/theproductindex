@@ -115,10 +115,12 @@ This a great opportunity to learn, especially doing user testing.
 
 The number of users is often high, so the risk is higher.
 
-## Resources
+
 This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
+
+## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
