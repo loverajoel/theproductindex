@@ -5,7 +5,7 @@
   /*border-bottom: 1px solid $grey-color-light;*/
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-  margin: 10px 0 40px 0;
+  margin: 10px 0 10px 0;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -159,7 +159,7 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit * 2;
+  margin-bottom: 10px;
 
   .excerpt {
     font-size: 21px;
@@ -432,10 +432,20 @@ blockquote {
       margin: 0;
       float: left;
 
+      li:first-child {
+        margin: 0;
+      }
+
+      li {
+        float: left;
+        margin: 0 0 0 -22px;
+      }
+
       img {
         width: 37px;
         list-style: none;
         border-radius: 30px;
+        border: 1px solid #fff;
       }
     }
 
