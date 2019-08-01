@@ -6,6 +6,22 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <span class="excerpt">{{ page.excerpt }}</span>
+
+    <div class="post-metadata">
+      <div class="contributors">
+        <ul class="contributors-list">
+          {% for contributor in site.github.contributors %}
+            <li><img src="{{ contributor.avatar_url }}" /></li>
+          {% endfor %}
+        </ul>
+        <span class="top-contributors">Top contributors</span>
+        <span class="post-date">Updated {{ page.last_modified_at | timeago }}</span>
+      </div>
+      <span class="to-read">
+        {% assign words = content | strip_html | number_of_words %}
+        {{ words | divided_by: 180 | plus: 1 }} min read.
+      </span>
+    </div>
   </header>
 
   <div class="post-content">

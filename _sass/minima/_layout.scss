@@ -417,3 +417,44 @@ blockquote {
     color: var(--section-color) !important;
   }
 }
+
+
+
+.post-metadata {
+  height: 50px;
+  margin: 50px 0 0 0;
+
+  .contributors {
+    width: 300px;
+
+    .contributors-list {
+      list-style: none;
+      margin: 0;
+      float: left;
+
+      img {
+        width: 37px;
+        list-style: none;
+        border-radius: 30px;
+      }
+    }
+
+    .post-date {
+      float: left;
+      font-size: 14px;
+      margin: 0 0 0 10px;
+    }
+
+    .top-contributors {
+      float: left;
+      font-size: 12px;
+      margin: 0 0 0 10px;
+      width: 200px;
+    }
+  }
+
+  .to-read {
+    float: right;
+    font-size: 14px;
+  }
+}
