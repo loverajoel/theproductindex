@@ -20,7 +20,7 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-last-modified-at", "1.1.0"
+  gem "jekyll-last-modified-at"
   gem 'jekyll-timeago'
   gem "jekyll-github-metadata"
 end
