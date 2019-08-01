@@ -9,9 +9,9 @@ color: 4B6584
 image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---
 
-In todays tech industry, great Product Management is not longer optional. What it used to be a competitive advantage now is a must-do for all companies that wants to stay competitive.
+In todays tech industry, great Product Management is not longer optional. What it used to be a competitive advantage now is a must-do for all companies that want to stay competitive.
 
-Product Management is all about building the right product. How to build a product right is important, but if your customers don't care about your product it doesn't matter.
+Product Management is all about building the right product. How to build the product right is important, but if your customers don't care about your product it doesn't matter.
 
 Moreover, the role of a Product Manager is still vague. The nature of the role makes it hard for companies and industries to find a common ground.
 
@@ -59,7 +59,7 @@ A good Product Manager needs to feel comfortable with all three, no matter what 
 
 ## What they do?
 
-Product Managers have two key responsibilities. They decide which opportunities are worthy and define the right product to build.
+Product Managers have two key responsibilities. They decide which opportunities are worthy and define the product to build.
 
 But, where to start?
 
@@ -115,6 +115,11 @@ This a great opportunity to learn, especially doing user testing.
 
 The number of users is often high, so the risk is higher.
 
+>
+
+---
+
+>
 
 This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
 
