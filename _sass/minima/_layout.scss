@@ -178,6 +178,7 @@
 
   h2 {
     @include relative-font-size(1.75);
+    margin-top: 50px;
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);
@@ -186,6 +187,7 @@
 
   h3 {
     @include relative-font-size(1.375);
+    margin-top: 30px;
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.625);
@@ -198,6 +200,19 @@
     @media screen and (min-width: $on-large) {
       @include relative-font-size(1.25);
     }
+  }
+
+  p {
+    img + span {
+      font-size: 13px;
+      text-align: center;
+      width: 100%;
+      display: inline-block;
+    }
+  }
+
+  #resources {
+    margin: 100px 0 0 0;
   }
 }
 
@@ -340,6 +355,32 @@
   padding: 20px;
   background: var(--section-color-alpha);
   margin: 50px 0;
+  font-size: 17px;
+
+  ul {
+    list-style: none;
+
+    li {
+      position: relative;
+      line-height: 1.8;
+
+      a:hover {
+        text-decoration: none;
+        color: var(--section-color);
+      }
+    }
+
+    li::before {
+      color: var(--section-color);
+      content: "\2022";
+      display: inline-block;
+      font-size: 14px;
+      left: -1.1225em;
+      position: absolute;
+      top: 2px;
+    }
+
+  }
 }
 
 .created-by {
