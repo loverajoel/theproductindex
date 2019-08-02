@@ -52,11 +52,12 @@ This framework separates the key components in 5 layers. Each layer depends on t
 2. **Underserved Needs**: What are their needs?
 3. **Value Proposition**: How the customer benefits and how the product is better
 4. **Feature Set**: The functionality that supports those benefits
-5. **User Experience**: What the customer interacts with to get the benefits
+5. **User Experience (UX)**: What the customer interacts with to get the benefits
 
 > Fall in love with the problem not the solution, and the rest will follow - Uri Levine
 
-The biggest pitfall here is to get stuck in the solution space. Product Managers need to make sure their work ties back to solving a real customer problem.
+The first three live in problem space. The other two are what customers see and interact with and live in the solution space.
+The biggest pitfall is to get stuck here. Product Managers need to make sure their work ties back to solving a real customer problem.
 
 ## Assesing Product Opportunities (POA)
 
