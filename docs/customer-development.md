@@ -16,17 +16,17 @@ At a high level, is about questioning your core business assumptions and underst
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Four stages of Customer Development](#four-stages-of-customer-development)
-- [Identify the problem](#identify-the-problem)
+1. [Four stages of Customer Development](#four-stages-of-customer-development)
+2. [Identify the problem](#identify-the-problem)
   - [Customer Discovery](#customer-discovery)
   - [Create a problem hypothesis](#create-a-problem-hypothesis)
-- [User research](#user-research)
+3. [User research](#user-research)
   - [Defining your target audience](#defining-your-target-audience)
   - [Secondary Research](#secondary-research)
   - [Primary Research](#primary-research)
     - [Surveys](#surveys)
     - [User Interviews](#user-interviews)
-- [User Personas](#user-personas)
+4. [User Personas](#user-personas)
 </div>
 
 ## Four stages of Customer Development
@@ -189,7 +189,7 @@ You're actually creating a fake person here.
 
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of what Customer Development is. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 

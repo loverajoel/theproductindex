@@ -16,14 +16,13 @@ Understanding market size, and understanding your ability to penetrate that mark
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
-- [Top-down: Based on total market size](#top-down-based-on-total-market-size)
-- [Competitors](#competitors)
+1. [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
+2. [Top-down: Based on total market size](#top-down-based-on-total-market-size)
+3. [Competitors](#competitors)
 	- [Finding competitors](#finding-competitors)
 	- [Categories of competitors](#categories-of-competitors)
 	- [Understanding competitors](#understanding-competitors)
 	- [Feature Table](#feature-table)
-
 </div>
 
 ## Bottom-up: Based on current trends (Conservative)
@@ -110,13 +109,11 @@ The feature table is a comparison chart we use to compare our product to our com
 
 You can use any tool to build one. On the X-axis put direct competitors. On the Y-axis put the features or characteristics you want to compare. If these doesn't come to mind easily, you need to research your customer group and learn what's important to them.
 
-<!-- image -->
-
 Make sure your customers find your solution obviously better than the rest knowing how your product differentiates. Also, pay close attention to the new features your competitors build and learn from them.
 
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of what Market and Competitive Analysis is. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 

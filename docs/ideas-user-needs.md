@@ -16,9 +16,9 @@ Despite popular belief, the product management job is not about being the "idea 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Where Ideas Come From](#where-ideas-come-from)
-- [Getting Real User Needs](#getting-real-user-needs)
-- [Customers vs. Users](#customers-vs-users)
+1. [Where Ideas Come From](#where-ideas-come-from)
+2. [Getting Real User Needs](#getting-real-user-needs)
+3. [Customers vs. Users](#customers-vs-users)
 </div>
 
 ## Where ideas come from
@@ -75,7 +75,7 @@ You need to keep this in mind when collecting feedback. The customers that pay f
 
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of where ideas come from. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 

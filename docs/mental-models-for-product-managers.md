@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Metal Models for Product Managers
+title: Mental Models for Product Managers
 excerpt: How to make intelligent decisions? Learn which mental models are most helpful for product managers.
 
 type: home-section
@@ -14,6 +14,15 @@ A mental model is a representation of how something works for someone based on t
 A popular analogy to mental models is that they are like tools in a toolbox. So, depending upon your need, you pick the tool to achieve the result efficiently.
 
 Let's take a look to a few that are relevant to the key aspects of product management — strategic decision making and understanding your team.
+
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Eisenhower Decision Matrix](#eisenhower-decision-matrix)
+2. [The-inversion-principle](#the-inversion-principle)
+3. [Emotional Intelligence](#emotional-intelligence)
+4. [Perverse incentives](#perverse-incentives)
+</div>
 
 ## Eisenhower Decision Matrix (Urgent vs. Important)
 
@@ -68,17 +77,9 @@ This model break the myths around monetized incentives to improve performance. I
 
 A perverse incentive is an incentive that has an unintended and undesirable result or "cobra effect" which is contrary to the interests of the incentive makers.
 
-## Peter Principle
-
-> In a hierarchy, every employee tends to rise to his level of incompetence - Lawrence Peter
-
-This model helps you detect early signs of stagnation, lack of motivation and fall in performance.
-
-In our modern hierarchical organizations, we are promoted to a better position (and salary) when we kick ass in our current role. But, over the years, we get to a position where we turn out to be useless.
-
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of mental models for Product Managers. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 
@@ -88,8 +89,6 @@ Do you have any feedback? Please, let us know [here]().
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental Models for Product Managers: The Inversion Principle" by Simón Muñoz](https://medium.com/@simonmunoz/mental-models-for-product-managers-the-inversion-principle-4f7692bddc2)|8 min read|
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Eisenhower Box](https://jamesclear.com/eisenhower-box)|7 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to be More Productive and Eliminate Time Wasting Activities" by James Clear](https://jamesclear.com/eisenhower-box)|7 min read|
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Inversion](https://jamesclear.com/inversion)|7 min read|
-
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Peter Principle: When promotions lead to failures](http://blogs.quovantis.com/peter-principle-when-promotions-lead-to-failures/)|7 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Inversion: The Crucial Thinking Skill Nobody Ever Taught You" by James Clear](https://jamesclear.com/inversion)|7 min read|

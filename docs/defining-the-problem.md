@@ -18,9 +18,9 @@ They best way to mitigate "solution pollution" is by mastering the problem space
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Problem space vs. Solution space](#problem-space-vs-solution-space)
-- [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
-- [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
+1. [Problem space vs. Solution space](#problem-space-vs-solution-space)
+2. [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
+3. [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
 	- [The fundamental questions](#the-fundamental-questions)
 
 </div>
@@ -87,7 +87,7 @@ The hardest questions to answer are the first and the third. Product Managers ne
 
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of what Product/Market Fit means. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 

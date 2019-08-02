@@ -18,10 +18,10 @@ For startups, small optimization projects just don’t make sense. The the time,
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Opportunities](#opportunities)
-- [Avoid Snacking](#avoid-snacking)
-- [Talk to customers](#talk-to-customers)
-- [Designing and Running Experiments](#designing-and-Running-Experiments)
+1. [Opportunities](#opportunities)
+2. [Avoid Snacking](#avoid-snacking)
+3. [Talk to customers](#talk-to-customers)
+4. [Designing and Running Experiments](#designing-and-Running-Experiments)
 	- [Assumptions](#assumptions)
 	- [Hypotheses](#hypotheses)
 	- [Minimum Criteria of Success (MCS)](#minimum-criteria-of-success-mcs)
@@ -99,7 +99,8 @@ The goal of the MVP is to quickly get feedback from customers and improve the pr
 
 The important part is "validated learning", which means learning from a scientific experiment where you are not biasing your customers.
 
-<!-- image -->
+![](images/mvp_pyramid.png "The MVP Pyramid")
+<span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
 The Build-Measure-Learn feedback loop is at the core of the Lean Startup model. The effort should be focused on minimizing the total time through this feedback loop. The less time needed, the more experiments we can run in the same time which leads to a better product.
 
@@ -128,7 +129,7 @@ Since you need validated learning from real customers, you need to make sure the
 
 ---
 
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of what Experiments look like. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 
