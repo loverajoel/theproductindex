@@ -4,18 +4,29 @@ title: Competitive and Market Analysis
 excerpt: What makes you different from your competitors? How promising is the market? Learn to understand the market and your competitors.
 
 type: home-section
-order: 10
+order: 4
 color: 378D60
 image: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?fit=crop&w=300&q=80
 ---
-
-# Competitive and Market Analysis
 
 A big part of product management is making sure that the market you're attempting to address is large enough to make it worth going into.
 
 Understanding market size, and understanding your ability to penetrate that market, is all-important. If your market is too small, you can’t make money, no matter how innovative the product or how competitive your pricing is. Top down and bottom up analyses are two basic ways to evaluate that market.
 
-## Bottom-up approach: Based on current trends (Conservative)
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+- [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
+- [Top-down: Based on total market size](#top-down-based-on-total-market-size)
+- [Competitors](#competitors)
+	- [Finding competitors](#finding-competitors)
+	- [Categories of competitors](#categories-of-competitors)
+	- [Understanding competitors](#understanding-competitors)
+	- [Feature Table](#feature-table)
+
+</div>
+
+## Bottom-up: Based on current trends (Conservative)
 
 A *bottom-up* analysis starts by estimating potential sales to determine a total sales figure. A bottom up analysis evaluates where products can be sold, the sales of comparable products, and the slice of current sales you can carve out. While it takes a lot more effort, the result is usually much more accurate.
 
@@ -31,7 +42,7 @@ A *bottom-up* analysis starts by estimating potential sales to determine a total
 **Cons**
 * It takes a little more effort and takes a bit longer.
 
-### Top-down approach: Based on total market size (Optimistic)
+### Top-down: Based on total market size (Optimistic)
 
 A *top-down* analysis starts by determining the total market, then estimating your share of that market.
 
@@ -103,8 +114,14 @@ You can use any tool to build one. On the X-axis put direct competitors. On the 
 
 Make sure your customers find your solution obviously better than the rest knowing how your product differentiates. Also, pay close attention to the new features your competitors build and learn from them.
 
+---
+
+This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
 
 ## Resources
-[1] - [Bottom Up or Top Down Market Analysis: Which Should You Use? | Inc.com](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html)
-[2] - [Market Size Estimation](https://www.planprojections.com/projections/market-size-estimation/)
-[3] - [Become a Product Manager | Learn the skills & get the job](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Bottom Up or Top Down Market Analysis: Which Should You Use?" by Jeff Haden](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Market Size Estimation" by Michael Brown](https://www.planprojections.com/projections/market-size-estimation/)|7 min read|
