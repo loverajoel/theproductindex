@@ -40,7 +40,7 @@ Customer Development is for:
 - Deploying the right organization and resources to scale the business
 
 ![](images/customerdevelopmentphases.png "Customer Development Stages")
-<span>[From Steve Blank. Resources section.](#resources)</span>
+<span>[From Steve Blank's book. Resources section.](#resources)</span>
 
 When building a business, the process is used to discover, test and validate the following your business assumptions:
   * A specific product solves a known problem for an identifiable group of users (Customer Discovery)

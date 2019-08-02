@@ -88,6 +88,3 @@ Do you have any feedback? Please, let us know [here]().
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["A Practical Guide to User Needs" by Julia Mitelman](https://medium.com/on-products/a-practical-guide-to-user-needs-89a1e0c03f95#.k364mfz7q)|12 min read|
 
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/)|
-
-
-
