@@ -4,49 +4,73 @@ title: Mastering the problem space
 excerpt: Which is your product's value proposition? Learn why you need to focus on the problem first.
 
 type: home-section
-order: 8
+order: 2
 color: a5a25c
 image: https://images.unsplash.com/photo-1500021804447-2ca2eaaaabeb?fit=crop&w=300&q=80
 ---
 
-# Mastering the problem space
+We all know examples of failed products and companies. The main reason is because they don't meet customer needs better than the current alternatives or [Product-Market Fit](https://en.wikipedia.org/wiki/Product/market_fit). Their focus was on the specific implementation of the product or solution space rather than the problem . Check the [space pen problem](https://history.nasa.gov/spacepen.html).
 
-As product managers, our goal is to explore the problem space to open up to divergent thinking and embrace new ideas. Based on our customers needs are the benefits we should think of when building solution.
+Product Managers, need to know which customer needs will their product solve. These unserved needs for a target customer are the market. They can target those needs but not change or control them. This is the problem space.
 
-By focusing on the problem, we make sure our work ties back to the problem space and the customer need.
+They best way to mitigate "solution pollution" is by mastering the problem space before anything else.
+
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+- [Problem space vs. Solution space](#problem-space-vs-solution-space)
+- [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
+- [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
+	- [The fundamental questions](#the-fundamental-questions)
+
+</div>
+
+## Problem space vs. Solution space
+
+The problem space is where the customer needs of your target customer lives. These can be anything from pain points, desires, or jobs-to-be-done. They define markets segments.
+
+The solution space is any specific implementation to build a product. They can be any product or representation of product built for customer use.
+
+> Customers don’t care about your solution. They care about their problems - Dave McClure
+
+Experience says customers are not likely to communicate their needs clearly. It's not how the human brain works. We have a natural tendency to think in terms of solutions.
+
+The job of Product Managers is to read between lines in the solution space to define the problem space.
 
 ## The Product/Market Fit Pyramid
 
-The term Product/Market Fit was coined by Marc Andreesen back in 2007 and it’s been a key goal for any new product or startup ever since. Since then, Dan Olsen, tackles the key components of product/market fit and how to achieve it.
+Marc Andreesen coined the term Product/Market Fit as "being in a good market with a product that can satisfy that market." in a well-known [blog post](https://pmarchive.com/guide_to_startups_part4.html).
 
-This is a framework covering the universal conditions and patterns that have to hold true to achieve product/market fit. Each layer in the pyramid is a key hypothesis that you need to get right in order to build the next layer and ultimately achieve product/market fit:
+But this doesn't say much about how to get there. That's why Dan Olsen created a framework called "Product/Market Fit Pyramid".
 
-<!-- insert image -->
+This framework separates the key components in 5 layers. Each layer depends on the layer immediately beneath it. Each layer is a hypothesis you need to confirm before moving up:
 
-1. **Target Customer**: Who are we trying to create value for?
+![](images/product_market_fit_pyramid.png "The Product Marjet-Fit Pyramid")
+<span>[From Dan Olsen's book. Resources section.](#resources)</span>
+
+1. **Target Customer**: Who are they?
 2. **Underserved Needs**: What are their needs?
-3. **Value Proposition**: How the customer benefits from your product, and how you meet their needs better than other products
-4. **Feature Set**: The functionality that conveys those benefits to the customer
-5. **User Experience**: What the customer interacts with in order receive the benefits
+3. **Value Proposition**: How the customer benefits and how the product is better
+4. **Feature Set**: The functionality that supports those benefits
+5. **User Experience (UX)**: What the customer interacts with to get the benefits
 
-The biggest pitfall here is to getting stuck in the solution space. It's how the human brain works.
+> Fall in love with the problem not the solution, and the rest will follow - Uri Levine
 
-Our job as a product manager is to focus on the problem space, explore it as much as possible, and make sure that what we build is actually solving a customer problem.
-
-> Fall in love with the problem not the solution, and the rest will follow - Uri Levine, Waze cofounder. 
+The first three live in problem space. The other two are what customers see and interact with and live in the solution space.
+The biggest pitfall is to get stuck here. Product Managers need to make sure their work ties back to solving a real customer problem.
 
 ## Assesing Product Opportunities (POA)
 
-The product manager must be able to quickly evaluate opportunities to decide which are promising and which are not; what looks appealing, which should be pursued, which are better left for others, and which ideas are not yet ready for productization.
+The purpose of a good product opportunity Assessment (POA) is to either:
 
-### Defining the problem with POA
+- Prevent the company from wasting time and money
+- Understand and define success
 
-Product Opportunity Assessment (POA) is an extremely important responsibility of the product manager. The purpose of a good product opportunity Assessmentt is to either:
+What is possible is always changing. That's why opportunities for new products exist. Sometimes good opportunities are not ready for productization just yet.
 
-- Prevent the company from wasting time and money on poor opportunities by ultimately proving the idea should be shelved for now
-- For those opportunities that are good ones, focus the team and understand what will be required to succeed and how to define that success
+This process help Product Managers to evaluate if an opportunity is promising or not. The real challenge is find a way to this quick and effective:
 
-### The fundamental questions 
+### The ten fundamental questions 
 
 1. Exactly what problem will this solve? (value proposition) 
 2. For whom do we solve that problem? (target market) 
@@ -59,26 +83,24 @@ Product Opportunity Assessment (POA) is an extremely important responsibility of
 9. What factors are critical to success? (solution requirements) 
 10. Given the above, what’s the recommendation? (go or no-go)
 
-Usually the hardest question to answer is the first one. You should have a clear and compelling statement of exactly the problem that’s solved.
+The hardest questions to answer are the first and the third. Product Managers need to have a compelling statement of the problem they are trying to solve and its size.
 
-Your Value Proposition needs to answer: 
-- Which customer needs will your product solve?
-- How will your product be better than competitors?
+>
 
+---
 
-### The Kano Model
+>
 
-The Kano model allows to start mapping out possible solutions to customer problems against three axes: must-haves, performance benefits, and delighters. The key lesson is that these change over time – what starts as a delighter often quickly becomes a must-have – so this job is never done.
+This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
 
-In order to find product/market fit you shouldn’t try to compete on must-have features, just make sure you have them and do them well enough. Instead, spend time and effort on your product’s unique differentiators.
+Do you have any feedback? Please, let us know [here]().
 
-<!-- insert image -->
+## Resources
 
-## Books
-- [1] Cagan, Marty. Inspired: How To Create Products Customers Love (p. 69). SVPG Press. Kindle Edition. 
+|![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/)|
 
-## Articles
-- [1] - [Mastering the problem space](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)
-- [2] - [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html)
-- [3] - [The Real Product Maket Fit](https://blog.ycombinator.com/the-real-product-market-fit/) 
-- [4] - [Assessing Product Opportunities](https://svpg.com/assessing-product-opportunities/)
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapters 1-2](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mastering the problem space" by Martin Eriksson](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)|X min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Assessing Product Opportunities" by Marty Cagan](https://svpg.com/assessing-product-opportunities/)|X min read|
