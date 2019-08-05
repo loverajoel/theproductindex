@@ -122,11 +122,7 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Growth Handbook" by Intercom](https://www.intercom.com/books/growth-handbook)
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Data Shows Our Addiction To Acquisition Based Growth Is Getting Worse" by Patrick Campbell](https://www.priceintelligently.com/blog/saas-growth-focused-too-much-on-acquisition)|8 min read|
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|[Activate or Die: 10+ Ways You Can Improve Your User Activation for SaaS](https://500.co/activate-or-die-10-plus-ways-to-improve-user-activation-for-saas-part-2/)|7 min read|
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Reduce Churn By Re-engaging Your Customers" by Des Traynor](https://www.intercom.com/blog/churn-retention-and-reengaging-customers/)|6 min read|
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Ten Year's Of Learnings About Pricing" by Tom Tunguz](https://tomtunguz.com/pricing-summary/)|3 min read|

@@ -68,9 +68,6 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Product Book" by Product School](https://www.productschool.com/the-product-book/)
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Growth Handbook" by Intercom](https://www.intercom.com/books/growth-handbook)
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to create competitive advantage for your startup with proxy metrics" by Tom Tunguz](https://tomtunguz.com/proxy-metrics/)|3 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a Vanity Metric?" by CrazyEgg](https://www.crazyegg.com/blog/glossary/what-is-a-vanity-metric/)|5 min read|

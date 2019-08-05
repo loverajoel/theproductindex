@@ -113,11 +113,7 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Use the Product-Life Cycle" by Interaction Design](https://www.interaction-design.org/literature/article/how-to-use-the-product-life-cycle)|4 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is Dual Track Agile?" by Jacob De Lichtenberg](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)|12 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Lean, Agile, & Design Thinking" by Emily Tate](https://www.mindtheproduct.com/2019/06/lean-agile-design-thinking-by-jeff-gothelf/)|4 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Kanban vs. Scrum" by Max Rehkopf](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)|8 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?" by Lucidchart](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)|8 min read|

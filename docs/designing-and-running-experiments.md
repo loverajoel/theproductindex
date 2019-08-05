@@ -136,11 +136,7 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["An Intro to the Minimum Viable Product (MVP)" by X](https://www.productmanagerhq.com/2014/09/an-intro-to-the-minimum-viable-product-mvp/)|2 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Why and How You Should Build a Minimum Viable Product (MVP)" by](https://medium.com/tokopedia-product-team/minimum-viable-product-mvp-101-5192bc5c2a2)|2 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is your Riskiest Assumption? (Workshop)" by Neda D Stevanović](https://mvpworkshop.co/validate-riskiest-assumption/)|14 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["The Product Manager’s Scientific Method" by Andre Theus](https://www.productplan.com/product-manager-scientific-method/)|6 min read|
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries, Chapters 6-7](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/)

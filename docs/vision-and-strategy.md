@@ -89,9 +89,6 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Business Strategy vs. Product Strategy" by Marty Cagan](https://svpg.com/business-strategy-vs-product-strategy/)|4 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is Good Product Strategy?" by Melissa Perri](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429)|7 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a great Product Strategy, really?" by Espen Sundve](https://uxdesign.cc/what-is-a-great-product-strategy-really-d22b14d54e8)|5 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Applying Leverage as a Product Manager" by Brandon Chu](https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24)|5 min read|

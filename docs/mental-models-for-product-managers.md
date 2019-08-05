@@ -86,9 +86,6 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental models that make you a better product manager" by Saurabh Rastogi](https://medium.com/unboxing-product-management/mental-models-that-make-you-a-better-product-manager-bceb8897540a)|8 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental Models for Product Managers: The Inversion Principle" by Simón Muñoz](https://medium.com/@simonmunoz/mental-models-for-product-managers-the-inversion-principle-4f7692bddc2)|8 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to be More Productive and Eliminate Time Wasting Activities" by James Clear](https://jamesclear.com/eisenhower-box)|7 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Inversion: The Crucial Thinking Skill Nobody Ever Taught You" by James Clear](https://jamesclear.com/inversion)|7 min read|

@@ -94,9 +94,6 @@ Do you have any feedback? Please, let us know [here]().
 ## Resources
 
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/)|
-
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapters 1-2](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mastering the problem space" by Martin Eriksson](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)|4 min read|
-
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Assessing Product Opportunities" by Marty Cagan](https://svpg.com/assessing-product-opportunities/)|5 min read|
