@@ -1,4 +1,4 @@
-# From Zero to PM
+# The Product Index
 
 
 ## Dev
