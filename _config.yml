@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-timeago
   - jekyll-github-metadata
+  - jekyll-last-modified-at
 
 google_analytics: UA-144584240-1
 

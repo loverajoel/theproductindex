@@ -15,6 +15,7 @@ layout: default
           {% endfor %}
         </ul>
         <span class="top-contributors">Top contributors</span>
+        <span class="post-date">Updated {{ page.last_modified_at | timeago }}</span>
       </div>
       <span class="to-read">
         {% assign words = content | strip_html | number_of_words %}
