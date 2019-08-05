@@ -15,8 +15,6 @@ layout: default
           {% endfor %}
         </ul>
         <span class="top-contributors">Top contributors</span>
-        
-        <span class="post-date">Updated {% capture lastmod_date %}{% last_modified {{ post.path }} %}{% endcapture %}{{ lastmod_date | timeago }}</span>
       </div>
       <span class="to-read">
         {% assign words = content | strip_html | number_of_words %}
