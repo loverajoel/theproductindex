@@ -522,3 +522,12 @@ blockquote {
     }
   }
 }
+
+
+.post {
+  padding-bottom: 250px;
+
+  @media screen and (max-width: $on-large) {
+    padding-bottom: 350px;
+  } 
+}
