@@ -301,7 +301,7 @@
       box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.17);
       background-position: center;
 
-      &:nth-child(1), &:nth-child(6), &:nth-child(7), &:nth-child(12), &:nth-child(13) {
+      &:nth-child(1), &:nth-child(6), &:nth-child(11) {
         grid-column-end: span 2;
         grid-row-end: span 4;
       }
