@@ -4,38 +4,43 @@ title: Customer Development
 excerpt: How do you build strong customer relationships? Learn to understand your customers and their needs.
 
 type: home-section
-order: 9
+order: 5
 color: D6813D
 image: https://images.unsplash.com/photo-1557804506-669a67965ba0?fit=crop&w=300&q=80
 ---
 
-# Customer Development
+Customer development is a framework developed by Steve Blank with the intention of establishing a continuous and iterative communication line with your customer. This way you can come up with ideas and hypothesis to try them out and get feedback to adapt your product.
 
-<div class="img-post">
+At a high level, is about questioning your core business assumptions and understanding your customer's problems and needs. This understanding will allow you to create a solution that they care about.
 
-  ![](images/undraw_prototyping_process_rswj.svg)
-
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Four stages of Customer Development](#four-stages-of-customer-development)
+2. [Identify the problem](#identify-the-problem)
+  - [Customer Discovery](#customer-discovery)
+  - [Create a problem hypothesis](#create-a-problem-hypothesis)
+3. [User research](#user-research)
+  - [Defining your target audience](#defining-your-target-audience)
+  - [Secondary Research](#secondary-research)
+  - [Primary Research](#primary-research)
+    - [Surveys](#surveys)
+    - [User Interviews](#user-interviews)
+4. [User Personas](#user-personas)
 </div>
 
-Customer Development is a framework developed by Steve Blank for:
+## Four stages of Customer Development
+
+> Customer development lets you save money and time while deciding the market need
+
+Customer Development is for:
 - Discovering and validating the right market for your idea
 - Building the right product that solve customers’ needs
 - Testing the correct model and tactics for acquiring and converting customers
 - Deploying the right organization and resources to scale the business
 
-Customer development is the practice of establishing a continuous and iterative communication line with your customer. This way you can come up with ideas and hypothesis to try them out and get feedback to adapt your product.
-
-At a high level, is about questioning your core business assumptions and understanding your customer — their problems and their needs. This understanding will allow you to create a solution that they care about.
-
-> Customer development lets you save money and time while deciding the market need
-
-## Four stages of Customer Development
-
-<div class="img">
-  
-  ![](images/customerdevelopmentphases.png)
-
-</div>
+![](images/customerdevelopmentphases.png "Customer Development Stages")
+<span>[From Steve Blank's book. Resources section.](#resources)</span>
 
 When building a business, the process is used to discover, test and validate the following your business assumptions:
   * A specific product solves a known problem for an identifiable group of users (Customer Discovery)
@@ -182,7 +187,12 @@ You're actually creating a fake person here.
 
 > User personas are just aggregates of observed user behavior.
 
-### Resources
-1. [Become a Product Manager | Learn the Skills & Get the Job | Udemy](https://www.udemy.com/become-a-product-manager-learn-the-skills-get-a-job/)
-2. [What is Customer Development? – Market By Numbers](http://www.market-by-numbers.com/customer-development/)
-3. [Customer Development for Product Managers | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/customer-development-for-product-managers)
+---
+
+This is a first draft and a just a glance of what Customer Development is. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
+
+## Resources
+
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Four Steps to the Epiphany" by Steve Blank](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank-ebook/dp/B00FLZKNUQ/)

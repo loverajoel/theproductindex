@@ -4,24 +4,31 @@ title: Product Vision & Strategy
 excerpt: How to provide direction and inspiration for your team? Learn where product managers apply the most leverage.
 
 type: home-section
-order: 11
+order: 7
 color: 4B6584
 image: https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&w=300&q=80
 ---
-
-# Product Vision & Strategy 
 
 One of the first things a great product manager should do before even thinking about a product is to understand the company that makes it. Every company is a little bit different, and they have different priorities, values, strengths, and weaknesses. 
 
 Knowing these details, is the starting point to find and evaluate product opportunities and make strategic product decisions.
 
-Product managers have lots of choices to make everyday so developing awareness of where they have leverage is critical to their long term impact:
+Product managers have lots of choices to make everyday so developing awareness of where they have leverage is critical to their long term impact.
 
-<div class="img">
-  
-  ![](images/product_vision_and_strategy_pyramid.png)
-
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Product Managers Leverage](#product-managers-leverage)
+2. [Product Vision](#product-vision)
+3. [Product Strategy](#product-strategy)
+	- [Product Strategy vs. Business Strategy](#product-strategy-vs-business-strategy)
 </div>
+
+
+## Product Managers Leverage
+
+![](images/vision_strategy_pyramid.png "Vision & Strategy Pyramid")
+
 
 **Vision and Strategy are foundational**: They provide the direction, the inspiration, and enable a group of people to execute as a team.
 
@@ -73,12 +80,18 @@ Business Strategy is about identifying your business objectives and deciding whe
 
 The business strategy provides a budget and a set of business metrics. The product organization then lives within that budget to pursue as aggressively as possible the best ways to hit those business metrics.
 
-## Resources
-### Articles
-- [1] -  [https://svpg.com/business-strategy-vs-product-strategy/](https://svpg.com/business-strategy-vs-product-strategy/) 
-- [2] - [https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429) 
-- [3] - [What is a great Product Strategy, really? – UX Collective](https://uxdesign.cc/what-is-a-great-product-strategy-really-d22b14d54e8)
-- [5] - [Applying Leverage as a Product Manager](https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24))
+---
 
-### Books
-- [4] - The Product Book
+This is a first draft and a just a glance of the importance of vision and strategy in Product Management. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
+
+## Resources
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Business Strategy vs. Product Strategy" by Marty Cagan](https://svpg.com/business-strategy-vs-product-strategy/)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is Good Product Strategy?" by Melissa Perri](https://medium.com/@melissaperri/what-is-good-product-strategy-8d5587cb7429)|7 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a great Product Strategy, really?" by Espen Sundve](https://uxdesign.cc/what-is-a-great-product-strategy-really-d22b14d54e8)|5 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Applying Leverage as a Product Manager" by Brandon Chu](https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24)|5 min read|

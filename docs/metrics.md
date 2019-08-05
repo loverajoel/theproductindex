@@ -4,24 +4,29 @@ title: Metrics & Measurement
 excerpt: What you should be measuring? Learn about the only metric that matters.
 
 type: home-section
-order: 3
+order: 11
 color: 84ad7a
 image: https://images.unsplash.com/photo-1543286386-2e659306cd6c?fit=crop&w=300&q=80
 ---
 
-# Metrics & Measurement
-
-## What are metrics?
-
 Metrics are the measurement of different aspects of your product. These might include things like how many people complete a task, or how much revenue you’re making. Success metrics, also called Key Performance Indicators (KPIs), are the key metrics that define how we know we win.
+
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Types of Metrics](#types-of-metrics)
+	- [Vanity vs. Actionable Metrics](#vanity-vs-actionable-metrics)
+	- [Proxy Metrics](#proxy-metrics)
+2. [The only metric that matters](#the-only-metric-that-matters)
+</div>
+
+## Types of Metrics
 
 > If you can’t measure it, you can’t improve it – Peter Drucker
 
 What you measure is what you end up optimizing for. Get a handle on your metrics early, and you’ll lay the foundations for authentic growth to follow.
 
-> In God we trust, all others must bring data – Edwards Deming
-
-### Vanity vs. Actionable Metrics
+## Vanity vs. Actionable Metrics
 
 Vanity metrics are those that feel good, and might be great for some other business need, but don’t help us measure product performance. They’re easily manipulated, and they don’t bear a direct correlation with numbers that speak to business success.
 
@@ -44,7 +49,7 @@ Proxy metrics are powerful for four reasons:
 
 Proxy metrics are powerful because they enable businesses to use an upstream-metric to predict a downstream outcome, which reduces latency and accelerates experimentation cycle times. Faster experiments means discovering the right growth strategies sooner, and that’s a critical competitive advantage for every startup.
 
-### The only metric that matters
+## The only metric that matters
 
 How many people are really using your product? 
 
@@ -54,11 +59,18 @@ Whatever it is, it should be a signal that they are using their product in the w
 
 Only then, you can really track your growth on a day-to-day, week-over-week, month-over-month basis.
 
-## Resources
-### Articles
-- [1] - [How to create competitive advantage for your startup with proxy metrics](https://tomtunguz.com/proxy-metrics/)
-- [2] - [What is a Vanity Metric?](https://www.crazyegg.com/blog/glossary/what-is-a-vanity-metric/)
+---
 
-### Books
-- [3] - The Product Book
-- [4] - [The Growth Handbook](https://www.intercom.com/books/growth-handbook)
+This is a first draft and a just a glance of what Metrics are. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
+
+## Resources
+
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Product Book" by Product School](https://www.productschool.com/the-product-book/)
+
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Growth Handbook" by Intercom](https://www.intercom.com/books/growth-handbook)
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to create competitive advantage for your startup with proxy metrics" by Tom Tunguz](https://tomtunguz.com/proxy-metrics/)|3 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a Vanity Metric?" by CrazyEgg](https://www.crazyegg.com/blog/glossary/what-is-a-vanity-metric/)|5 min read|

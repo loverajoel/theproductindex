@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Metal Models for Product Managers
+title: Mental Models for Product Managers
 excerpt: How to make intelligent decisions? Learn which mental models are most helpful for product managers.
 
 type: home-section
-order: 4
+order: 9
 color: af5454
 image: https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?fit=crop&w=300&q=80
 ---
-
-# Metal Models for Product Managers
 
 A mental model is a representation of how something works for someone based on their context. Just as thoughts flow freely, mental models take different forms in different contexts, depending upon the person’s understanding of the world.
 
@@ -17,11 +15,23 @@ A popular analogy to mental models is that they are like tools in a toolbox. So,
 
 Let's take a look to a few that are relevant to the key aspects of product management — strategic decision making and understanding your team.
 
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Eisenhower Decision Matrix](#eisenhower-decision-matrix)
+2. [The-inversion-principle](#the-inversion-principle)
+3. [Emotional Intelligence](#emotional-intelligence)
+4. [Perverse incentives](#perverse-incentives)
+</div>
+
 ## Eisenhower Decision Matrix (Urgent vs. Important)
 
 The idea behind this model is — you should be able to identify what urgency means exactly. By helping determine which task belongs in which quadrant, the matrix helps to prioritize, which is key to succeed as a product manager.
 
-<!-- insert image -->
+![](images/eisenhower-box.png "Eisenhower Box")
+<span>[From James Clear article. Resources section](#resources)</span>
+
+> What is important is seldom urgent and what is urgent is seldom important - Dwight Eisenhower
 
 Using the decision matrix above, you should separate your actions based on four possibilities:
 
@@ -67,20 +77,18 @@ This model break the myths around monetized incentives to improve performance. I
 
 A perverse incentive is an incentive that has an unintended and undesirable result or "cobra effect" which is contrary to the interests of the incentive makers.
 
-## Peter Principle
+---
 
-> In a hierarchy, every employee tends to rise to his level of incompetence - Lawrence Peter
+This is a first draft and a just a glance of mental models for Product Managers. Take the time to learn from the resources below. We keep them up to date!
 
-This model helps you detect early signs of stagnation, lack of motivation and fall in performance.
+Do you have any feedback? Please, let us know [here]().
 
-In our modern hierarchical organizations, we are promoted to a better position (and salary) when we kick ass in our current role. But, over the years, we get to a position where we turn out to be useless.
+## Resources
 
-## Articles
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental models that make you a better product manager" by Saurabh Rastogi](https://medium.com/unboxing-product-management/mental-models-that-make-you-a-better-product-manager-bceb8897540a)|8 min read|
 
-https://www.mindtheproduct.com/2019/02/why-product-thinking-is-the-future-for-product-management/
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental Models for Product Managers: The Inversion Principle" by Simón Muñoz](https://medium.com/@simonmunoz/mental-models-for-product-managers-the-inversion-principle-4f7692bddc2)|8 min read|
 
-- [1] - [Mental models that make you a better product manager](https://medium.com/unboxing-product-management/mental-models-that-make-you-a-better-product-manager-bceb8897540a)
-- [2] - [Eisenhower Box](https://jamesclear.com/eisenhower-box)
-- [3] = [Inversion](https://jamesclear.com/inversion)
-- [4] - [Mental Models for Product Managers: The Inversion Principle](https://medium.com/@simonmunoz/mental-models-for-product-managers-the-inversion-principle-4f7692bddc2)
-- [5] - [Peter Principle: When promotions lead to failures](http://blogs.quovantis.com/peter-principle-when-promotions-lead-to-failures/)
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to be More Productive and Eliminate Time Wasting Activities" by James Clear](https://jamesclear.com/eisenhower-box)|7 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Inversion: The Crucial Thinking Skill Nobody Ever Taught You" by James Clear](https://jamesclear.com/inversion)|7 min read|

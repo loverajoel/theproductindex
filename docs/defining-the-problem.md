@@ -18,9 +18,9 @@ They best way to mitigate "solution pollution" is by mastering the problem space
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-- [Problem space vs. Solution space](#problem-space-vs-solution-space)
-- [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
-- [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
+1. [Problem space vs. Solution space](#problem-space-vs-solution-space)
+2. [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
+3. [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
 	- [The fundamental questions](#the-fundamental-questions)
 
 </div>
@@ -85,13 +85,9 @@ This process help Product Managers to evaluate if an opportunity is promising or
 
 The hardest questions to answer are the first and the third. Product Managers need to have a compelling statement of the problem they are trying to solve and its size.
 
->
-
 ---
 
->
-
-This is a first draft and a just a glance of what Product Management is. Take the time to learn from the resources below. We keep them up to date!
+This is a first draft and a just a glance of what Product/Market Fit means. Take the time to learn from the resources below. We keep them up to date!
 
 Do you have any feedback? Please, let us know [here]().
 
@@ -101,6 +97,6 @@ Do you have any feedback? Please, let us know [here]().
 
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapters 1-2](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mastering the problem space" by Martin Eriksson](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)|X min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mastering the problem space" by Martin Eriksson](https://www.mindtheproduct.com/2018/08/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)|4 min read|
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Assessing Product Opportunities" by Marty Cagan](https://svpg.com/assessing-product-opportunities/)|X min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Assessing Product Opportunities" by Marty Cagan](https://svpg.com/assessing-product-opportunities/)|5 min read|

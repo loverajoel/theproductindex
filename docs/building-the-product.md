@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Introduction to Product Development
+title: Product Development
 excerpt: How do you launch a product from scratch? Learn how to develop products from an idea to market release and more.
 
 type: home-section
-order: 2
+order: 8
 color: D6813D
 image: https://images.unsplash.com/photo-1503551723145-6c040742065b?fit=crop&w=300&q=80
 ---
@@ -16,32 +16,34 @@ Building products with a lean approach is more successful because you’re not r
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Lorem ipsum dolor sit amet, consectetur](#)
-  - [Lorem ipsum dolor sit amet, consectetur](#)
-  - [Lorem ipsum dolor sit amet, consectetur](#)
-2. [Lorem ipsum dolor sit amet, consectetur](#)
-  - [Lorem ipsum dolor sit amet, consectetur](#)
-3. [Lorem ipsum dolor sit amet, consectetur](#)
-  - [Lorem ipsum dolor sit amet, consectetur](#)
-4. [Lorem ipsum dolor sit amet, consectetur](#)
+1. [Product Development Process](#product-development-process)
+2. [Phases of the product lifecycle](#phases-of-the-product-lifecycle)
+3. [What is Agile?](#what-is-agile)
+4. [What is Lean?](#what-is-lean)
+5. [What is Design Thinking?](#what-is-design-thinking)
+6. [Dual Track Agile](#dual-track-agile)
+7. [Project Management](#project-management)
+	- [Scrum: A structured agile approach](#scrum-a-structured-agile-approach)
+	- [Kanban: Continuous improvement, flexible processes](#kanban-continuous-improvement-flexible-processes)
+	- [Waterfall Development](#waterfall-development)
 </div>
 
+## Product Development Process
 
-## Product Development Processes
-
-1. Conceive -> Collect user problems and brainstorm possible solutions.
-2. Plan -> Market research, exploratory interview, roadmapping.
-3. Develop -> User stories, specs, start the MVP.
-4. Iterate -> We test the assumptions.
-5. Launch -> Work with Marketing, Sales. Go To Market Strategy.
-6. Steady state -> Connecting metrics, analyze user feedback.
-7. Maintain or Kill -> Can we compete? How frequently users use it? How much money are we spending to maintain it
+1. **Conceive**: Collect user problems and brainstorm possible solutions.
+2. **Plan**: Market research, exploratory interview, roadmapping.
+3. **Develop**: User stories, specs, start the MVP.
+4. **Iterate**: We test the assumptions.
+5. **Launch**: Work with Marketing, Sales. Go To Market Strategy.
+6. **Steady state**: Connecting metrics, analyze user feedback.
+7. **Maintain or Kill**: Can we compete? How frequently users use it? How much money are we spending to maintain it
 
 ## Phases of the product lifecycle
-[image:21143FEE-59C3-4E79-B9DB-93D1B3E865FD-16974-0001793D4B1B0E00/2F8D3263-528E-4A30-AA97-82A6ABCC6317.png]
-[2]
 
-The product life-cycle is a great tool for marketers, product managers and designers. The four individual stages of a product’s life offer guidance for developing strategies to make the best use of those stages. It's also built based on the following assumptions:
+![](images/product_lifecycle.png "Phases of the Product Lifecycle")
+<span>[From Interaction Design article. Resources section.](#resources)</span>
+
+The product life-cycle is a great tool for marketers, product managers and designers. The four individual stages of a product’s life offer guidance for developing strategies to make the best use of those stages. It's also built based on the following assumptions.
 
 1. Products have a limited life span
 2. Each phase of the life cycle presents opportunities and challenges to take advantage of and to overcome.
@@ -65,11 +67,12 @@ Lean relies on two important principles:
 Design Thinking focuses on empathizing with the people whose problems you are trying to solve, understanding the landscape, ideating solutions, prototyping, and testing to see if you are moving in the right direction. When done well, Design Thinking fits nicely into the Lean Startup “Build – Measure – Learn” loop. These can then flow into Agile.
 
 
-### Dual-Track Agile
+## Dual-Track Agile
 
 Dual-Track Agile is a methodology where figuring out *what* to build is as important as the building process. You start with a discovery track to find out if a product idea is good and if it makes sense to build. Successful findings from the discovery track are added to the backlog of the delivery track, which is the most familiar scenario for product managers.
 
-<!-- image -->
+![](images/dual-tracking.png "Dual Tracking Process")
+<span>[From Jacob Litchenberg article. Resources section](#resources)</span>
 
 The purpose of the discovery track is to work out if a product idea makes sense to build. During the discovery process, the product team should collect answers to the following four questions:
 
@@ -101,11 +104,20 @@ Waterfall works best for projects completed in a linear fashion and does not all
 - Discrete, terminal phases: You must complete each stage before the next stage can begin
 - Thorough documentation: This methodology begins with gathering and documenting requirements
 
+---
+
+This is a first draft and a just a glance of what Product Development is. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
 
 ## Resources
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[How to Use the Product-Life Cycle](https://www.interaction-design.org/literature/article/how-to-use-the-product-life-cycle)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[What is Dual Track Agile?](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Lean, Agile, & Design Thinking](https://www.mindtheproduct.com/2019/06/lean-agile-design-thinking-by-jeff-gothelf/)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Kanban vs. Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)|3 mins read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|[Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)|3 mins read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to Use the Product-Life Cycle" by Interaction Design](https://www.interaction-design.org/literature/article/how-to-use-the-product-life-cycle)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is Dual Track Agile?" by Jacob De Lichtenberg](https://www.mindtheproduct.com/2017/04/dual-track-agile-messy-leads-innovation/)|12 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Lean, Agile, & Design Thinking" by Emily Tate](https://www.mindtheproduct.com/2019/06/lean-agile-design-thinking-by-jeff-gothelf/)|4 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Kanban vs. Scrum" by Max Rehkopf](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)|8 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?" by Lucidchart](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)|8 min read|

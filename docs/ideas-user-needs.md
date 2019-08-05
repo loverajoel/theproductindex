@@ -4,16 +4,22 @@ title: Ideas and User Needs
 excerpt: Where ideas come from? Learn how to decide when an idea is worth pursuing.
 
 type: home-section
-order: 5
+order: 3
 color: 4b967a
 image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?fit=crop&w=300&q=80
 ---
 
-# Ideas and User Needs
-
 Typically, new ideas can come from anywhere—company executives, discussions with customers, usability testing, your own product team, your sales or marketing staff, industry analysts, to name a few. But then the product manager needs to take a hard look at the idea and decide if it is something worth pursuing.
 
 Despite popular belief, the product management job is not about being the "idea person".
+
+{::options parse_block_html="true" /}
+<div class="table-of-content">
+### On this section
+1. [Where Ideas Come From](#where-ideas-come-from)
+2. [Getting Real User Needs](#getting-real-user-needs)
+3. [Customers vs. Users](#customers-vs-users)
+</div>
 
 ## Where ideas come from
 
@@ -67,7 +73,18 @@ More often than not, the people that will pay for the product, your customers, a
 
 You need to keep this in mind when collecting feedback. The customers that pay for the product will give you feedback about general features and users will give you feedback about technical issues and usability since they actually use the product.
 
+---
+
+This is a first draft and a just a glance of where ideas come from. Take the time to learn from the resources below. We keep them up to date!
+
+Do you have any feedback? Please, let us know [here]().
 
 ## Resources
-Articles
-- [1] - [Product Discovery](https://svpg.com/product-discovery/)
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Product Discovery" by Marty Cagan](https://svpg.com/product-discovery/)|5 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["User vs. Customer: Does It Matter?" by Kate Kiefer Lee](https://www.forbes.com/sites/katelee/2012/10/18/user-vs-customer-does-it-matter/#3ce2781b5dcd)|2 min read|
+
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["A Practical Guide to User Needs" by Julia Mitelman](https://medium.com/on-products/a-practical-guide-to-user-needs-89a1e0c03f95#.k364mfz7q)|12 min read|
+
+|![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/)|
