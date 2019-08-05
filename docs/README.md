@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Product Management 4
+title: Introduction to Product Management
 excerpt: What is a product manager and what they do? Learn what makes this role so unique.
 
 type: home-section
