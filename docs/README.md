@@ -18,14 +18,14 @@ Moreover, the role of a Product Manager is still vague. The nature of the role m
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [What is a Product Manager?](#what-is-a-product-manager)
+- [What is a Product Manager?](#what-is-a-product-manager)
   - [Business](#business)
   - [Technology](#technology)
   - [User Experience](#user-experience)
-2. [What they do?](#what-they-do)
-3. [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
-4. [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
-5. [Types of Product Managers](#types-of-product-managers)
+- [What they do?](#what-they-do)
+- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
+- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
+- [Types of Product Managers](#types-of-product-managers)
   - [Internal Product Manager](#internal-product-manager)
   - [Business to Business Product Manager](#business-to-business-product-manager)
   - [Busines to Consumer Product Manager](#business-to-consumer-product-manager)

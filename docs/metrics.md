@@ -14,10 +14,10 @@ Metrics are the measurement of different aspects of your product. These might in
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Types of Metrics](#types-of-metrics)
+- [Types of Metrics](#types-of-metrics)
 	- [Vanity vs. Actionable Metrics](#vanity-vs-actionable-metrics)
 	- [Proxy Metrics](#proxy-metrics)
-2. [The only metric that matters](#the-only-metric-that-matters)
+- [The only metric that matters](#the-only-metric-that-matters)
 </div>
 
 ## Types of Metrics

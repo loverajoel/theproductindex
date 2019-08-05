@@ -16,13 +16,13 @@ Building products with a lean approach is more successful because you’re not r
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Product Development Process](#product-development-process)
-2. [Phases of the product lifecycle](#phases-of-the-product-lifecycle)
-3. [What is Agile?](#what-is-agile)
-4. [What is Lean?](#what-is-lean)
-5. [What is Design Thinking?](#what-is-design-thinking)
-6. [Dual Track Agile](#dual-track-agile)
-7. [Project Management](#project-management)
+- [Product Development Process](#product-development-process)
+- [Phases of the product lifecycle](#phases-of-the-product-lifecycle)
+- [What is Agile?](#what-is-agile)
+- [What is Lean?](#what-is-lean)
+- [What is Design Thinking?](#what-is-design-thinking)
+- [Dual Track Agile](#dual-track-agile)
+- [Project Management](#project-management)
 	- [Scrum: A structured agile approach](#scrum-a-structured-agile-approach)
 	- [Kanban: Continuous improvement, flexible processes](#kanban-continuous-improvement-flexible-processes)
 	- [Waterfall Development](#waterfall-development)

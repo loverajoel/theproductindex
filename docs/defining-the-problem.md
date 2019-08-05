@@ -18,9 +18,9 @@ They best way to mitigate "solution pollution" is by mastering the problem space
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Problem space vs. Solution space](#problem-space-vs-solution-space)
-2. [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
-3. [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
+- [Problem space vs. Solution space](#problem-space-vs-solution-space)
+- [The Product/Market Fit Pyramid?](#the-product-market-fit-pyramid)
+- [Assesing Product Opportunities (POA)](#assessing-product-opportunities-poa)
 	- [The fundamental questions](#the-fundamental-questions)
 
 </div>

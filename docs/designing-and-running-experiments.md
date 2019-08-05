@@ -18,10 +18,10 @@ For startups, small optimization projects just don’t make sense. The the time,
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Opportunities](#opportunities)
-2. [Avoid Snacking](#avoid-snacking)
-3. [Talk to customers](#talk-to-customers)
-4. [Designing and Running Experiments](#designing-and-Running-Experiments)
+- [Opportunities](#opportunities)
+- [Avoid Snacking](#avoid-snacking)
+- [Talk to customers](#talk-to-customers)
+- [Designing and Running Experiments](#designing-and-Running-Experiments)
 	- [Assumptions](#assumptions)
 	- [Hypotheses](#hypotheses)
 	- [Minimum Criteria of Success (MCS)](#minimum-criteria-of-success-mcs)

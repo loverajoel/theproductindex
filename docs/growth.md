@@ -19,17 +19,17 @@ To understand growth we need:
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Acquisition](#acquisition)
+- [Acquisition](#acquisition)
 	- [After Product/Market Fit](#after-product-market-fit)
 	- [Why content is so powerful](#why-content-is-so-powerful)
 	- [The ideal customer](#the-ideal-customer)
-2. [Activation](#activation)
+- [Activation](#activation)
 	- [Understanding retention first](#understanding-retention-first)
 	- [Activating customer long-term](#activating-customer-long-term)
-3. [Retention](#retention)
+- [Retention](#retention)
 	- [The "Aha" moment](#the-aha-moment)
 	- [Retention Strategy](#retention-strategy)
-4. [Monetization](#monetization)
+- [Monetization](#monetization)
 	- [Getting Pricing Wrong](#getting-pricing-right)
 </div>
 

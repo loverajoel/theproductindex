@@ -16,9 +16,9 @@ Understanding market size, and understanding your ability to penetrate that mark
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
-2. [Top-down: Based on total market size](#top-down-based-on-total-market-size)
-3. [Competitors](#competitors)
+- [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
+- [Top-down: Based on total market size](#top-down-based-on-total-market-size)
+- [Competitors](#competitors)
 	- [Finding competitors](#finding-competitors)
 	- [Categories of competitors](#categories-of-competitors)
 	- [Understanding competitors](#understanding-competitors)

@@ -18,9 +18,9 @@ Product managers have lots of choices to make everyday so developing awareness o
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Product Managers Leverage](#product-managers-leverage)
-2. [Product Vision](#product-vision)
-3. [Product Strategy](#product-strategy)
+- [Product Managers Leverage](#product-managers-leverage)
+- [Product Vision](#product-vision)
+- [Product Strategy](#product-strategy)
 	- [Product Strategy vs. Business Strategy](#product-strategy-vs-business-strategy)
 </div>
 

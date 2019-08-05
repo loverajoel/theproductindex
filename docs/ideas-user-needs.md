@@ -16,9 +16,9 @@ Despite popular belief, the product management job is not about being the "idea 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Where Ideas Come From](#where-ideas-come-from)
-2. [Getting Real User Needs](#getting-real-user-needs)
-3. [Customers vs. Users](#customers-vs-users)
+- [Where Ideas Come From](#where-ideas-come-from)
+- [Getting Real User Needs](#getting-real-user-needs)
+- [Customers vs. Users](#customers-vs-users)
 </div>
 
 ## Where ideas come from

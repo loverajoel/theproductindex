@@ -18,10 +18,10 @@ Let's take a look to a few that are relevant to the key aspects of product manag
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
-1. [Eisenhower Decision Matrix](#eisenhower-decision-matrix)
-2. [The-inversion-principle](#the-inversion-principle)
-3. [Emotional Intelligence](#emotional-intelligence)
-4. [Perverse incentives](#perverse-incentives)
+- [Eisenhower Decision Matrix](#eisenhower-decision-matrix)
+- [The-inversion-principle](#the-inversion-principle)
+- [Emotional Intelligence](#emotional-intelligence)
+- [Perverse incentives](#perverse-incentives)
 </div>
 
 ## Eisenhower Decision Matrix (Urgent vs. Important)
