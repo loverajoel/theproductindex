@@ -41,7 +41,7 @@
  * Site footer
  */
 .site-footer {
-  margin-top: 100px;
+  /*margin-top: 100px;*/
   /*border-top: 1px solid $grey-color-light;*/
   padding: $spacing-unit 0;
 
@@ -471,5 +471,54 @@ blockquote {
   .to-read {
     float: right;
     font-size: 14px;
+  }
+}
+
+
+.next-section {
+  background: #104585;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  padding: 50px 0;
+  background: var(--next-section-color-alpha);
+  overflow: hidden;
+
+  .wrapper {
+    max-width: 800px;
+    padding: 0 50px;
+
+    .post-title {
+      font-size: 39px;
+      color: var(--next-section-color);
+      display: block;
+    }
+
+    .excerpt {
+      font-size: 18px;
+      color: var(--next-section-color);
+      display: block;
+      margin: 20px 0 0 0;
+    }
+
+    a {
+      background: #fff;
+      border-radius: 8px;
+      padding: 7px 20px;
+      display: block;
+      float: left;
+      bottom: 15px;
+      z-index: 2;
+      font-weight: bold;
+      font-size: 15px;
+      color:  var(--next-section-color);
+      float: left;
+      margin: 20px 0 0 0;
+
+      &:hover {
+        text-decoration: none;
+        opacity: 0.9;
+      }
+    }
   }
 }
