@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Product Management test
+title: Introduction to Product Management test2
 excerpt: What is a product manager and what they do? Learn what makes this role so unique.
 
 type: home-section
