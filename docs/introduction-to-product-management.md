@@ -9,6 +9,7 @@ color: 4B6584
 image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6
 ---
 
+
 In todays tech industry, great Product Management is not longer optional. What it used to be a competitive advantage now is a must-do for all companies that want to stay competitive.
 
 Product Management is all about building the right product. How to build the product right is important, but if your customers don't care about your product it doesn't matter.
