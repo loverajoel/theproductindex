@@ -179,7 +179,7 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit*2;
 
   h2 {
     @include relative-font-size(1.75);
@@ -301,7 +301,12 @@
       box-shadow: 2px 2px 4px 0 rgba(0,0,0,0.17);
       background-position: center;
 
-      &:nth-child(1), &:nth-child(6), &:nth-child(11) {
+      /*&:nth-child(1), &:nth-child(6), &:nth-child(11) {
+        grid-column-end: span 2;
+        grid-row-end: span 4;
+      }*/
+
+      &[order='1'], &[order='6'], &[order='7'] {
         grid-column-end: span 2;
         grid-row-end: span 4;
       }
