@@ -9,16 +9,21 @@ color: af5454
 image: https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?fit=crop&w=300&q=80
 ---
 
-A mental model is a representation of how something works for someone based on their context. Just as thoughts flow freely, mental models take different forms in different contexts, depending upon the person’s understanding of the world.
+A mental model is a representation of how something works. Depending on the context, mental models take different forms. A common analogy is that they are like tools in a toolbox.
 
-A popular analogy to mental models is that they are like tools in a toolbox. So, depending upon your need, you pick the tool to achieve the result efficiently.
+Mental models help Product Managers to learn how systems work and to make better decisions.
 
-Let's take a look to a few that are relevant to the key aspects of product management — strategic decision making and understanding your team.
+A system is a set of things working together as whole. Mental models help to optimize a system by highlighting the core components and how they work together. Almost anything in the world can be described as a system.
+
+Making good decisions without needing to know every detail is a common scenario. Mental models are frameworks for thinking. They simplify complex things by cutting through the noise.
+
+There are a few mental models that are relevant to the key aspects of Product Management.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
 - [Eisenhower Decision Matrix](#eisenhower-decision-matrix)
+- [Local/Global](#local-global)
 - [The-inversion-principle](#the-inversion-principle)
 - [Emotional Intelligence](#emotional-intelligence)
 - [Perverse incentives](#perverse-incentives)
@@ -26,52 +31,55 @@ Let's take a look to a few that are relevant to the key aspects of product manag
 
 ## Eisenhower Decision Matrix (Urgent vs. Important)
 
-The idea behind this model is — you should be able to identify what urgency means exactly. By helping determine which task belongs in which quadrant, the matrix helps to prioritize, which is key to succeed as a product manager.
+This model helps to prioritize, which is key for Product Mangers to succeed. The idea is to clearly define what "urgent" and "important" mean and use the matrix to determine which quadrant a task belongs.
 
 ![](images/eisenhower-box.png "Eisenhower Box")
 <span>[From James Clear article. Resources section](#resources)</span>
 
 > What is important is seldom urgent and what is urgent is seldom important - Dwight Eisenhower
 
-Using the decision matrix above, you should separate your actions based on four possibilities:
+The four classes, in order, are:
 
 1. **Urgent and important**: Tasks you should do immediately.
 2. **Important, but not urgent**: Tasks you should schedule to do later.
 3. **Urgent, but not important**: Tasks you should delegate to someone else.
-4. **Neither urgent nor important**: Tasks that you should eliminate.
+4. **Neither urgent nor important**: Tasks that you should cut.
 
-One of the most common mistakes of new product managers is get caught on the urgent but not important tasks. Learn to delegate.
+A common mistake of new Product Managers is to get caught on urgent but unimportant tasks. Learn to delegate.
+
+## Local/Global
+
+This model states that the higher the level of the system to optimize, the greater the return of investment (ROI).
+
+Most of the time, people try to optimize a specific part of a system to increase or improve a return. But this only lead to diminishing returns over time.
+
+Systems can be part of a larger system. When thinking about the larger system, optimization tipically lead to higher returns.
 
 ## The Inversion Principle
+This mental model visualizes how failure looks like to get an idea of what requires to get there. By focusing on how failure looks like, Product Managers visualize what to avoid to succeed.
 
-This mental model helps you visualize what *not to do* in order to be successful. Instead of focusing on how success would look like, invert it and think about how failure looks like and what needs to happen to get there. The process of using the Inversion Principle is very simple:
+The process of using the Inversion Principle is very simple:
 
-**Define the objective**: What you are trying to do?
-**Invert it**: What would you have to do to guarantee the failure of your objective?
-**Consider multiple solutions**: What would you have to do to prevent that from happening?
+1. **Define the goal**: What are you trying to do?
+2. **Invert it**: What would guarantee not achieving the goal?
+3. **Come up with solutions**: How would you prevent that from happening?
 
-Imagine the most important goal or project you are working on right now. Now fast forward months from now and assume the project or goal has failed miserable. Tell the story of how it happened and think:
-- What went wrong?
-- What mistakes did you make?
-- How did it fail?
-
-In other words, think of the main reasons and root causes of why this went horribly wrong and work from it.
+When trying to achieve a goal, Product Managers should fast forward months ahead and assume a complete failure. Then work backwards and tell the story of how it happened to find the main reasons and root causes.
 
 ## Emotional Intelligence
 
-The ability to recognize, express and control our emotions is essential. The same goes for understanding, interpreting and responding to other people’s emotions.
+The ability to recognize and control our emotions is fundamental for Product Managers. The same goes for understanding and responding to other people’s emotions. These are the foundations of team work.
 
-> For leaders, the first task in management has nothing to do with leading others; step one poses the challenge of knowing and managing oneself. - Daniel Goleman, Emotional Intelligence
+> For leaders, the first task in management has nothing to do with leading others; step one poses the challenge of knowing and managing oneself - Daniel Goleman
 
-**Self-awareness**: To understand and take control of your moods and emotions. When you are aware of them, you are better equipped to take control of them and its effect on your peers.
+As leaders without authority, Product Managers need to master the following:
 
-**Self-management**: To help you see if your motivation is intrinsic or driven by external factors like bonus or appreciation.
+* **Self-awareness**: To understand and take control of our moods and emotions.
+* **Self-management**: To understand what motivates us.
+* **Empathy**: To understand what others are going through and treating them with compassion.
+* **Social Skills**: To understand how to interact with our team and build healthy relationships.
 
-**Empathy**: To understand what the other person is going through and treating them with compassion and care.
-
-**Social Skills**: To help you understand how to interact with your team and your ability to build relationships.
-
-## Perverse incentives
+## Perverse Incentives
 
 This model break the myths around monetized incentives to improve performance. It describes how such incentives can go awry, especially in situations where outcomes can be manipulated by people who have direct control over them.
 
@@ -89,3 +97,4 @@ Do you have any feedback? Please, let us know [here]().
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental Models for Product Managers: The Inversion Principle" by Simón Muñoz](https://medium.com/@simonmunoz/mental-models-for-product-managers-the-inversion-principle-4f7692bddc2)|8 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["How to be More Productive and Eliminate Time Wasting Activities" by James Clear](https://jamesclear.com/eisenhower-box)|7 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Inversion: The Crucial Thinking Skill Nobody Ever Taught You" by James Clear](https://jamesclear.com/inversion)|7 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Mental Models" by Julian Shapiro](https://www.julian.com/blog/mental-model-examples)|16 min read|
