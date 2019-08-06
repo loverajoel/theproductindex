@@ -4,7 +4,7 @@ title: Competitive and Market Analysis
 excerpt: What makes you different from your competitors? How promising is the market? Learn to understand the market and your competitors.
 
 type: home-section
-order: 4
+order: 3
 color: 378D60
 image: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?fit=crop&w=300&q=80
 ---
@@ -18,6 +18,7 @@ Understanding market size, and understanding your ability to penetrate that mark
 ### On this section
 - [Bottom-up: Based on current trends](#bottom-up-based-on-current-trends)
 - [Top-down: Based on total market size](#top-down-based-on-total-market-size)
+- [Customer vs. Users]
 - [Competitors](#competitors)
 	- [Finding competitors](#finding-competitors)
 	- [Categories of competitors](#categories-of-competitors)
@@ -52,6 +53,12 @@ A *top-down* analysis starts by determining the total market, then estimating yo
 **Cons**:
 * You need to make assumptions on how much market penetration you will have inside that market.
 * It’s not the most respected way of estimating the potential market.
+
+### Customers vs. Users
+
+Sometimes, the people that pay for the product, the customers, are not the same people that use the product, the users. This is especially true for business to business products.
+
+Product Managers need to keep this in mind when collecting feedback. The customers will provide feedback about general features and funcionality. The users will provide feedback about technical issues and usability since they actually use the product.
 
 ## Competitors
 
