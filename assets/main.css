@@ -345,7 +345,7 @@ table {
       font-size: 47.25px; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 60px; }
   .post-content h2 {
     font-size: 31.5px;
     margin-top: 50px; }
@@ -373,6 +373,8 @@ table {
   .post-content hr {
     margin: 100px 0 50px 0;
     opacity: 0.2; }
+  .post-content p a {
+    text-decoration: underline; }
 
 .social-media-list {
   display: table;
@@ -429,8 +431,12 @@ table {
     background-size: cover;
     overflow: hidden;
     box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.17);
-    background-position: center; }
-    .home ul li:nth-child(1), .home ul li:nth-child(6), .home ul li:nth-child(11) {
+    background-position: center;
+    /*&:nth-child(1), &:nth-child(6), &:nth-child(11) {
+      grid-column-end: span 2;
+      grid-row-end: span 4;
+    }*/ }
+    .home ul li[order='1'], .home ul li[order='6'], .home ul li[order='7'] {
       grid-column-end: span 2;
       grid-row-end: span 4; }
     @media screen and (max-width: 800px) {
