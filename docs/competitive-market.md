@@ -145,3 +145,4 @@ Do you have any feedback? Please, let us know [here]().
 
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Bottom Up or Top Down Market Analysis: Which Should You Use?" by Jeff Haden](https://www.inc.com/jeff-haden/bottom-up-or-top-down-market-analysis-which-should-you-use.html)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Market Size Estimation" by Michael Brown](https://www.planprojections.com/projections/market-size-estimation/)|7 min read|
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapter 3](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
