@@ -9,7 +9,7 @@ color: a5a25c
 image: https://images.unsplash.com/photo-1500021804447-2ca2eaaaabeb?fit=crop&w=300&q=80
 ---
 
-We all know examples of failed products and companies. The main reason is because they don't meet customer needs better than the current alternatives or [Product-Market Fit](https://en.wikipedia.org/wiki/Product/market_fit). Their focus was on the specific implementation of the product or solution space rather than the problem . Check the [space pen problem](https://history.nasa.gov/spacepen.html).
+We all know examples of failed products and companies. The main reason is usually because they failed to meet customer needs better than the alternatives. Their focus was on the specific solution rather than the problem. This is also known as failing to find [Product-Market Fit](https://en.wikipedia.org/wiki/Product/market_fit).
 
 Product Managers, need to know which customer needs will their product solve. These unserved needs for a target customer are the market. They can target those needs but not change or control them. This is the problem space.
 
