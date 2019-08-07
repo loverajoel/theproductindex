@@ -55,8 +55,8 @@ A bottom up analysis starts by estimating potential sales. Based on current mark
 While it takes more effort, the result is usually much more accurate and conservative. The goal is to determine an estimated total sales figure.
 
 **Steps:**
-1. Ask yourself where people currently buy, solve, or pay for a similar solution
-2. Look for the sales volume for existing solutions. There must be at least similar offerings
+1. Ask yourself where people currently buy, solve, or pay for a similar solution.
+2. Look for the sales volume for existing solutions. There must be at least similar offerings.
 3. Make a conservative assumption and calculate the percentage that you could get in a specific timeframe.
 
 This approach is more accurate because it looks at patterns that exist in sales today rather than the total market. As a Product Manager this should be way to do it.
@@ -125,7 +125,7 @@ The five dimensions that are crucial to understand about competitors are:
 
 * **Brand:** Learn how users perceive their brand. A strong brand is a huge competitive advantage. They can charge higher prices, get the benefit of doubt and have a higher level of customer loyalty.
 
-* **Speed:** If the company is small, they are more likely to move faster. Although is not always the case. How fast they can build and ship?
+* **Speed:** If the company is small, they are more likely to move faster. Although is not always the case. How fast they can build and ship?.
 
 ### Feature Table
 
