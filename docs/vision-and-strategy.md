@@ -93,4 +93,4 @@ Do you have any feedback? Please, let us know [here]().
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a great Product Strategy, really?" by Espen Sundve](https://uxdesign.cc/what-is-a-great-product-strategy-really-d22b14d54e8)|5 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["Applying Leverage as a Product Manager" by Brandon Chu](https://blackboxofpm.com/applying-leverage-as-a-product-manager-ffad4a99db24)|5 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["High Output Management" by Andrew S. Grove, Chapter 3](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)|
-|![](https://img.icons8.com/ios/50/000000/book.png)|["Intercom on Product Management" by Intercom, Chapter 2](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)|
+|![](https://img.icons8.com/ios/50/000000/book.png)|["Intercom on Product Management" by Intercom, Chapter 2](https://www.intercom.com/books/product-management)|
