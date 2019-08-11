@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Product Vision & Strategy 
-excerpt: How to provide direction and inspiration for your team? Learn where product managers apply the most leverage.
+excerpt: How to get the most of your team? Learn where Product Managers apply the most leverage.
 
 type: home-section
 order: 7
