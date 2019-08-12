@@ -1,5 +1,6 @@
 # The Product Index
-An open and organized directory of the best pieces about Product Management
+An open and organized directory of the best pieces about Product Management.
+You can help us keep this content up to date adding resources and content, let's do this the source of truth for every Product Manager.
 
 ## Feedback
 We are continuously improving the content, so feedback is welcome! You can send us feedback [here](#)
