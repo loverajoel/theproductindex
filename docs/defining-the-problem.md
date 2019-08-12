@@ -89,7 +89,7 @@ The hardest questions to answer are the first and the third. Product Managers ne
 
 This is a first draft and a just a glance of what Product/Market Fit means. Take the time to learn from the resources below. We keep them up to date!
 
-Do you have any feedback? Please, let us know [here]().
+Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
 ## Resources
 

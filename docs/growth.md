@@ -117,7 +117,7 @@ The second thing to know about pricing is that you need to keep iterating on it 
 
 This is a first draft and a just a glance of what Growth is. Take the time to learn from the resources below. We keep them up to date!
 
-Do you have any feedback? Please, let us know [here]().
+Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
 ## Resources
 
