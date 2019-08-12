@@ -1,13 +1,2 @@
 # The Product Index
-
-
-## Dev
-To install dependencies
-```
-bundle
-```
-
-To run the project
-```
-bundle exec jekyll serve
-```
+An open and organized directory of the best pieces about Product Managemen
