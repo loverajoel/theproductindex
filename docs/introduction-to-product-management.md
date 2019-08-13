@@ -127,3 +127,4 @@ Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehu
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What, exactly, is a Product Manager" by Martin Eriksson](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is a product manager and what do they do?" by Geoffrey Keating](https://www.intercom.com/blog/qa-what-does-a-product-manager-do/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["Inspired: How To Create Products Customers Love" by Marty Cagan, Chapters 1-3](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408/ref=sr_1_5)|
+|![](https://img.icons8.com/ios/50/000000/book.png)|["The Product Book" by Product School, Chapter 1](https://www.productschool.com/the-product-book/)|
