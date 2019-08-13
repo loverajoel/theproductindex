@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Competitive and Market Analysis
+title: Competitive & Market Analysis
 excerpt: What makes your product different? How promising is the market? Learn to understand the market and your competitors.
 
 type: home-section
