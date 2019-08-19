@@ -112,7 +112,7 @@ A common mistake of product teams is to focus on a growth opportunity for too lo
 
 Growth is not about doing one major and single investment but the iterative improvement of the parts of the business that need to improve. Consistent improvements yield larger and larger increases in performance over time. They stack on top of one another and compound. That is how you get exponential growth.
 
-### You are not your customer
+### You Are Not Your Customer
 
 No matter how much you look like your customers, you are not them. The main reason to take this very seriously is the knowledge you and your team have about this problem. Consumer products are usually the most affected.
 
