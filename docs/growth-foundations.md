@@ -1,117 +1,124 @@
 ---
 layout: page
-title: Growth
-excerpt: Where your should focus your efforts? Learn how to build a strong foundation for growth.
+title: Growth Foundations
+excerpt: Where to focus your efforts? Learn how to build a strong foundation for growth.
 
 type: home-section
 order: 10
 color: 5f90a2
-image: https://images.unsplash.com/photo-1504257365157-1496a50d48f2?fit=crop&w=300&q=80
+image: https://images.unsplash.com/photo-1465343161283-c1959138ddaa?fit=crop&w=300&q=80
 ---
 
-If your business isn’t growing, nothing else matters. It's the most important problem that businesses at all stages of their development faces.
+After Product/Market Fit, the most important thing is growing your product.
 
-To understand growth we need:
-**A fundamental understanding of your product and the reasons people use it**: Knowing your true product value allows you to design the experiments necessary so that you can properly isolate cause and effect.
+To understand growth as a Product Manager, you need a deep understanding of why customers use your product. The goal is to move your customers to that first taste of value as soon as possible.
 
-**A simple framework for doing your work**: This simplicity allows everyone to understand it and see how decisions were made in a logical, transparent way.
+Then, you need a growth process in place. This allows your team to prioritize and design experiments, to build optimizations for your product. Everyone involved should be on the same page to make growth a success.
+
+There are fundamental components for implementing an efficient and effective growth process. They are Acquisition, Activation, Retention, Monetization, and Testing and Optimization.
+
+Building the foundations for growth early put companies in a great position to achieve hyper-growth.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
 ### On this section
 - [Acquisition](#acquisition)
-	- [After Product/Market Fit](#after-product-market-fit)
-	- [Why content is so powerful](#why-content-is-so-powerful)
-	- [The ideal customer](#the-ideal-customer)
+	- [The Ideal Customer](#the-ideal-customer)
 - [Activation](#activation)
-	- [Understanding retention first](#understanding-retention-first)
-	- [Activating customer long-term](#activating-customer-long-term)
+	- [Long-term Activation](#long-term-activation)
 - [Retention](#retention)
-	- [The "Aha" moment](#the-aha-moment)
 	- [Retention Strategy](#retention-strategy)
 - [Monetization](#monetization)
-	- [Getting Pricing Wrong](#getting-pricing-right)
+	- [Pricing](#pricing)
+- [Testing and Optimization](#testing-and-optimization)
+	- [You Are Not Your Customer](#you-are-not-your-customer)
 </div>
 
 ## Acquisition
 
-Acquisition is how you acquire new users. Word of mouth is the most economical way to do it, but over time, its returns are diminishing. This requires new thinking and new acquisition channels alike.
+Acquisition is how you acquire new customers. New businesses use short-term sales tactics to get their first ten customers. That’s great at the very beginning but terrible for sustainable growth.
 
-Most new businesses use short-term sales tactics to get their first 10 customers. That’s great for a startup at the very beginning but terrible for sustainable growth. Make sure you understand how customer aquisition is going to play long-term.
+Word of mouth is the most economical way to acquire customers. However, its returns diminish over time. As a Product Manager, you need to understand how to acquire customers in the long-term too.
 
-On the other hand, because it’s so easy to switch from product to product and the increase of ad, content, and social noise has gone up, it’s not only harder to acquire a customer, it’s also harder to keep them. This is the reason why you shouldn't think about acquiring users without thinking about retaining them.
+In today's competitive market it is easy to switch from one product to another. The increase of ads, content and social noise makes harder not only to acquire customers but also to retain them. The problem is that we are too obsessed with acquisition.
 
-### After Product/Market Fit
+![](images/growth-levers-image.png "Growth Levers")
+<span>[From Patrick Campbell's article. Resources section.](#resources)</span>
 
-Once you figure out Product/Market Fit, it’s immediately time to figure out what Andrew Chen and Brian Balfour call Product/Channel Fit: you need to identify your marketing channels, particularly the one or two you can use to go from wherever you’re at to that next level.
-
-### Why content is so powerful
-
-Content marketing works but it takes time. 
-
-If you get content marketing working, then you are able to retarget people. You are able to build lookalike audiences on different channels. If you’re creating great content, it builds links, which brings your domain authority up.
+The data shows that retention and monetization are much more efficient and effective at driving growth. By improving retention or monetization you can get 2-4x the impact of improving acquisition.
 
 ### The ideal customer
 
-The more your company has honed its ideal customer profile, the better targeted your sales team can be. That allows you to be a lot more efficient from both a sales and marketing standpoint, because you’re investing against a segment of customers that is more willing and likely to buy your products, and to find success with them too.
+An ideal customer profile allows a company to be more efficient from a sales and marketing perspective. The more defined it is, the better targeted the sales team can be. All the efforts are invested in a segment of customers that is more willing and likely to find success with your product.
 
-That said, if your sales team isn’t pushing a little bit, that’s a miss too. Your sales team talks to more prospective customers than any other team in your organization, and they will have the best pulse on where you might unexpectedly be resonating in the market.
+That said, the sales team should also be pushing a little. Since they talk to more prospective customers than any other team, they know what adjacent markets find your product valuable too.
 
-The ideal customer profile should bend – but not break.
+The ideal customer profile should bend but not break.
 
 ## Activation
 
-Activation is the science of turning acquired users into active customers: people that pay for and value your solution.
+Activation is all about turning acquired customers into active customers. The customers that use and value your solution on a regular basis.
 
-Product managers should care as much about the onboarding, first use experience and getting customers from trial to paid as they do about driving customers to their website.
+Onboarding and first user experience are as important as driving customers to your solution. As a Product Manager, you should enable them to see the value of your product as soon as possible. That is activation. The sooner the better.
 
-For your product to survive, you need to activate your new signups by getting them to take the actions that will enable them to see value in what you’re selling. The sooner, the better. Start by first looking at the steps your most successful customers take before becoming successful.
+Think about what *the magic moment* is for your product and get customers to experience it,  first.
 
-Think about what *the magic moment* is for your product, and get people to experience it as fast as possible. You can lift your retention easily if you can connect people with what makes them stick on your site.
+A good practice is looking at the steps of your most successful customers. If you can identify the early actions that separate retained customers from the rest, you’ll be able to define what drives real customer value.
 
-### Understanding retention first
+Once you know your key actions and frequency, try to replicate it and track changes over time.
 
-If you can identify the early actions that separate the retained customers from the customers who leave, you’ll be able to define and track activation and what drives real customer value.
+### Long-term Activation
 
-Once you know your key action and your frequency target, you have to track that target over time.
+Activation cycles vary from product to product.  A common mistake Product Managers often make is focusing on activation for the first 2 weeks only. Activation cycles vary from product to product. But there are many ways to activate customers over their life cycle.
 
-### Activating customer long-term
-
-Activation varies from product to product. However, a common mistake product managers often make is only focusing on activation for the first 14 days of a customer’s life cycle.
-
-Customers can be activated in hundreds of ways. They might have used a few key features, but have whole areas of the product they haven’t even explored yet. Think about activation per feature basis too.
+Customers might use a few key features, but there might have other areas of the product they don't even know yet. Think about activation on a feature basis too.
 
 ## Retention
 
-It doesn’t matter how many active customers your startup acquires if none of them stick around in the weeks and months after signup. If your retention is low then all of the ingenious growth hacks that you apply to your product are basically meaningless. 
+Now that customers have taken the most important actions to get value, you need to make keep them around months after they signed up.
 
-Churn is usually seen as a factor limiting growth on a month to month basis, but the impact on Customer Lifetime Value (LTV) on business is significant, especially in Saas.
+Here are a number of reasons why retention is so important:
+- Retained customers for long periods are more likely to evangelize your product.
+- Research suggests that retention is the most important variable to increase profits.
+- Without retention, all your growth efforts are worthless.
 
-### The "Aha" moment
+Retention is the difference between long term sustainability and dying products. The impact on Customer Lifetime Value (LTV) is critical. This is especially true for subscription businesses. 
 
-Focus on providing meaningful value in a way that requires as little work as possible for customers to get that first taste of value. Customers who got to this far are more likely to stay, leading to much higher engagement and accelerating growth of the active customer base.
+### Retention Strategy
 
-### Retention strategy
+Your retention strategy has to be proactive. If you wait until customers are about to leave before taking action it might be too late.
 
-Your retention strategy has to be proactive. Don’t wait until customers are on the brink of churning to throw some last-ditch attempts at them. Most important, you need to understand why someone might leave your product and choose the right tactics to stop it.
+Focus on providing meaningful value in a way that requires as little work as possible for customers. The ones who got this far are more likely to stay. The higher engagement the more rapidly your active customer base will grow.
 
 ## Monetization
 
-Monetization is the process of marrying your business model to customer value.
+Monetization is the process of matching the business model with customer value. The monetization has to feel fair to your customers. As a Product Manager, when you’re telling a prospect customer the story of your product, you never want her to think about pricing. Make pricing to disappear as a consideration.
 
-Growth is a symbiotic relationship. Just as your customers should be experiencing the value of your product, you should be capturing equal value from them.
+The key is to capture as much value as your customer's experience with your product. It is a symbiotic relationship.
 
-Your monetization has to feel fair to your customers. When you’re telling a potential customer the story of your product and how great it is, you never want them to think about pricing. Make pricing to disappear as a consideration.
+### Pricing
 
-### Getting pricing right
+The first thing to know about pricing is that you’re going to get it wrong. Pricing is a moving target. The second thing to know is that you need to iterate constantly.
 
-To figure out the right pricing strategy determining what the buyer cares about is crucial. Do they care about cost or value?
+In a healthy growing business, it is common to miss the target more than once. You might be setting the price too low to attract customers and never raising it or keeping a feature for free for too long.
 
-The first thing to know about pricing is that you’re going to get it wrong: pricing is a moving target.
+Product Managers need to figure out what customers really care about. Is it cost or value? This is the starting point to determine the right pricing strategy.
 
-If your business is growing it’s likely you’ll miss that target more than a few times, whether that’s setting their price low to attract customers and never raising it, or keeping a feature free long after it’s clear people will pay.
+## Testing and Optimization
 
-The second thing to know about pricing is that you need to keep iterating on it constantly.
+As a Product Manager that wants to stay ahead of the curve, you need to constantly test. Every experiment yields an opportunity to learn about your customers, and grow further. The more testing you do, the more you learn.
+
+A common mistake of product teams is to focus on a growth opportunity for too long. There is a point where other opportunities will be more promising. If a tactic is not working, fail fast and move on. Growth tactics and channels are dynamic. What used to work yesterday it might not work today.
+
+Growth is not about doing one major and single investment but the iterative improvement of the parts of the business that need to improve. Consistent improvements yield larger and larger increases in performance over time. They stack on top of one another and compound. That is how you get exponential growth.
+
+### You are not your customer
+
+No matter how much you look like your customers, you are not them. The main reason to take this very seriously is the knowledge you and your team have about this problem. Consumer products are usually the most affected.
+
+As a Product Manager, you must put the product in front of customers and observe. There is no replacement for this.
+
+Do a lot of qualitative research. An experiment tells you what’s going on but not why. That's how you understand.
 
 ---
 
