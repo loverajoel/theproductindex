@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Measuring Product Success
-excerpt: What to measure product success? Learn to measure what matters.
+excerpt: What is product success? Learn to measure what matters.
 
 type: home-section
 order: 11
@@ -9,15 +9,15 @@ color: 84ad7a
 image: https://images.unsplash.com/photo-1543286386-2e659306cd6c?fit=crop&w=300&q=80
 ---
 
-There is a close relationship between building a great product and measuring the success of the product. That is why is a hotly debated topic.
+There is a close relationship between building a great product and measuring the success of that product.
 
 After product launch, the learning opportunities grow. User research techniques expand from initial qualitative methods only, to adding quantitative methods as well. As a Product Manager with an existing customer base now, you can start using analytics to model and measure your product.
 
 Most companies struggle to define their key metrics. They have a massive amount of data with no methods for turning that data into insights.
 
-Determine which metrics and measurements are right for your product is challenging. They will guide your team's efforts so you should choose them wisely.
+Determine which metrics and measurements are right for your product is challenging. However, they will guide your team's efforts so you should choose them wisely.
 
-Product Managers need to establish the expected outcome first. Then, set the actionable, measurable and time-bound metrics that measure that outcome.
+Product Managers need to establish the expected *outcome* first. Then, set the actionable and time-bound metrics that will measure that outcome.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
@@ -31,64 +31,68 @@ Product Managers need to establish the expected outcome first. Then, set the act
 
 ## The Research Methods Framework
 
-There is a way to visualize the different types of user research methods. That is the Research Methods Framework, created by Christian Rohrer.
+There is a way to visualize the different types of user research methods. That is the *Research Methods Framework*, created by Christian Rohrer.
 
-There are four quadrants. Attitudinal and behavioral information in one axis, and qualitative and quantitative information in the other.
+There are four quadrants. *Attitudinal* and *behavioral* information in one axis, and *qualitative* and *quantitative* information in the other.
 
 ![](images/research-methods-framework.png "The Research Methods Framework")
 <span>[From Dan Olsen's book. Resources section](#resources)</span>
 
 Attitudinal information is what customers say they do. User interviews and surveys fall into this category. Behavioral information is what customers actually do. Usability testing, Analytics, and A/B Testing fall into this category.
 
-Quantitative research tells you how many customers are doing (or not doing) something. Qualitative research tells you why customers do what they do (or don't do).
+Quantitative research tells you *how many* customers are doing (or not doing) something. Qualitative research tells you *why* customers do what they do (or don't do).
 
-Both are necessary and important. They complement each other. The key is to understand when to lean more on one method than the other. When you are validating Product/Market Fit for a product, your focus should be on qualitative research. After launch, you can start expanding with quantitative methods.
+Both are necessary and important. They complement each other. The key is to understand when to lean more on one method than the other.
+
+When you are looking for *Product/Market Fit*, your focus should be on qualitative research. After product launch, you can start expanding with quantitative methods.
 
 > If you can’t measure it, you can’t improve it – Peter Drucker
 
 ## The Metric That Matters Most (MTMM)
 
-The metric that matters most (MTMM), is the metric with the highest return of investment opportunity at a given time. This means that your MTMM is going to change depending on which stage your product is.
+*The Metric That Matters Most* (MTMM), is the metric with the highest *Return Of Investment* (ROI) opportunity at a given time. This means that your MTMM is going to change depending on which stage your product is.
 
-This metric changes over time because of the law of diminishing returns. At the very beginning, you will tackle the ideas that make significant progress in your metric.  After a while, remaining ideas won't make such a difference. At this point, switch to another metric that offers a higher return of investment makes more sense.
+This metric changes over time because of the *law of diminishing returns*. At the very beginning, you will tackle the ideas that make significant progress in your metric.  After a while, remaining ideas won't make such a difference. At this point, switch to another metric that offers a higher ROI makes more sense.
 
-For new products, the most important thing is to know if customers really want your product. The best way to know this is with Retention metric. If your product is valuable, customers will use it regularly. Retention is the best way to measure Product/Market Fit.
+For new products, the most important thing is to know if customers really want your product. The best way to know this is with *retention* metric. If your product is valuable, customers will use it regularly. Retention is the best way to measure *Product/Market Fit*.
 
-There is a natural order for optimizing metrics. New products start out with retention, then move to conversion rates, and finally to acquisition.
+There is a natural order for optimizing metrics. New products start out with retention, then move to *conversion rates*, and finally to *acquisition*.
 
-After Product/Market Fit, you know that customers stay when they know about your product. Now, your focus should be on increasing the conversion rate. Once retention and conversion rate are optimized, exploring new and different acquisition channels will have a higher return of investment.
+After *Product/Market Fit*, you know that customers stay when they know about your product. Now, your focus should be on increasing the conversion rate. Once retention and conversion rate are optimized, exploring new and different acquisition channels will have a higher ROI.
 
 ### Retention Rate
 
 This metric measures the percentage of customers that use your product. It's calculated by:
 
-```Active customers / Total customers```
+> *Active Customers / Total Customers*
 
 The catch with retention rate is that you can't use calendar dates as most metrics do. Different customers start using the product on different dates so you need to aggregate data using relative dates.
 
-A good way to visualize retention rates over time is by using retention curves. They start at 100 percent and then decreases day after day as your customer base returns to your product.
+A good way to visualize retention rates over time is by using *retention curves*. They start at 100 (percent) and then decreases day after day as your customer base returns to your product.
 
 ![](images/retention-curve.png "Retention Curve Example")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
 There are three main parameters for retention curves:
-- The initial drop-off rate
-- The decrease rate of the curve
-- The terminal value
+- The initial drop-off rate.
+- The decrease rate of the curve.
+- The terminal value.
 
-These params are direct measures of Product/Market Fit. The terminal value is the most important of all. This is the value you want to improve over time.
+These params are direct measures of *Product/Market Fit*. The terminal value is the most important of all. This is the value you want to improve over time.
 
-Retention curves offer a hard way to measure Product/Market Fit. By comparing multiple retention curves over time, you can see how it has improved over time. The higher any of these parameters, the stronger your Product/Market Fit is.
+Retention curves offer a hard way to measure *Product/Market Fit*. By comparing multiple retention curves over time, you can see how it has improved. The higher any of these parameters, the stronger your *Product/Market Fit* is.
 
 ## Actionable Metrics
 
 What you measure is what you end up optimizing for. This is why is so important to choose the right metric to improve.
 
-A common mistake among companies is using vanity metrics. That is, metrics that feel good and can be easily manipulated but tells nothing important about your product.
+A common mistake among companies is using *vanity metrics*. That is, metrics that feel good and can be easily manipulated but tells nothing important about your product.
 
-As a Product Manager, you should focus your efforts on actionable metrics instead. They are directly linked to customer behavior and close to revenue or costs. These metrics tell what you should know about your product.
+As a Product Manager, you should focus your efforts on *actionable metrics* instead. They are directly linked to customer behavior and close to revenue or costs. These metrics tell the story you should know about your product.
 
-For each vanity metric, there is a corresponding actionable metric. A classic example of this is *trial customer* versus *converting customers* metrics. Track only the metrics that help you optimize your product for success and drop the rest.
+For each vanity metric, there is often a corresponding actionable metric. A classic example of this is *trial customer* versus *converting customers*.
+
+Track only the metrics that help you optimize your product for success and drop the rest.
 
 ---
 

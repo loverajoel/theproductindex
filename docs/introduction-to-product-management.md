@@ -24,8 +24,8 @@ Moreover, the role of a Product Manager is still vague. The nature of the role m
   - [Technology](#technology)
   - [User Experience](#user-experience)
 - [What they do?](#what-they-do)
-- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
-- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
+	- [Product Manager vs. Project Manager](#product-manager-vs-project-manager)
+	- [Product Manager vs. Product Marketing Manager](#product-manager-vs-product-marketing-manager)
 - [Types of Product Managers](#types-of-product-managers)
   - [Internal Product Manager](#internal-product-manager)
   - [Business to Business Product Manager](#business-to-business-product-manager)
@@ -74,15 +74,15 @@ Once the product is out, Product Managers need to know how customers are using t
 
 This is what they do, over and over again.
 
-## Product Manager vs. Project Manager
+### Product Manager vs. Project Manager
 
 This is the most common confusion. Project managers are responsible for accomplishing the project. A project usually has a timeline and a budget as a constraint.
 
 Product Managers are responsible for the success of the product, which is measured by key performance indicators (KPIs). However, they need the skill of project management to manage product releases.
 
-## Product Manager vs. Product Marketing Manager
+### Product Manager vs. Product Marketing Manager
 
-Product Marketing Managers are responsible for telling the world about that product. This include positioning, messaging and pricing and managing product launches. They also provide tools for selling the product and leading marketing programs.
+Product Marketing Managers are responsible for telling the world about that product. This include positioning, messaging, pricing product launches. They also provide tools for selling the product and leading marketing programs.
 
 Product managers are responsible for validating the product with real customers and users.
 
@@ -90,9 +90,7 @@ They both need to work very closely, especially, during product launches.
 
 ## Types of Product Managers
 
-A common way to classify Product Managers is stakeholders relationship. Stakeholders are the people that have input on the product.
-
-The different types are:
+A common way to classify Product Managers is their relationship with *stakeholders*. Stakeholders are the people that have input on the product.
 
 ### Internal Product Manager
 

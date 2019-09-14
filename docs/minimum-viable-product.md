@@ -9,13 +9,13 @@ color: a764a5
 image: https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?fit=crop&w=300&q=80
 ---
 
-After spending a considerable time in the problem space, Product Managers should have a pretty good list of customer needs. The next step is to decide which ones to address.
+After spending a considerable time in the *problem space*, Product Managers should have a pretty good list of customer needs at this point. The next step is to decide which ones to address.
 
 The key is to focus on a set of customer needs and solve them very well.  Since uncertainty is still very high, it is not practical to spend too much resources testing the initial hypothesis. Also, the larger the scope, the less valuable the product.
 
-Next, Product Managers need to define the feature set of the Minimal Viable Product (MVP). To do so, you can run as many MVP tests as needed. They will reveal if you need to change, add or remove your initial hypotheses and assumptions.
+Next, Product Managers need to define the feature set of the *Minimal Viable Product* (MVP). To do so, you can run as many MVP tests as needed. They will reveal if you need to change, add or remove your initial hypotheses and assumptions.
 
-The goal is to learn if you are heading in the right direction in the most cheap way possible. This is especially important for startups.
+The goal is to learn if you are heading in the right direction in the cheapest way possible. This is especially important for startups.
 
 {::options parse_block_html="true" /}
 <div class="table-of-content">
@@ -34,28 +34,27 @@ The goal is to learn if you are heading in the right direction in the most cheap
 
 ## Assumptions
 
-An assumption is a belief with no evidence to support it. It’s something we take for granted when thinking about the problem.
+An *assumption* is a belief with no evidence to support it. It’s something we take for granted when thinking about the problem.
 
-As a Product Manager you want to make a list of all your assumptions and choose the riskiest. The ones that, if not true, will make your product fail. If that's the case, you can go back go back to the drawing board and pivot or move on.
+As a Product Manager you want to make a list of all your assumptions and choose the riskiest. The ones that, if not true, will make your product fail. If that's the case, you can go back to the drawing board and pivot.
 
 Some examples of common assumptions are:
-- My customer have problem *x,y,z*.
-- My customer care about *x*.
-- My customer would pay for solution *x*.
-- There are no satisfactory substitutes so far
+- *"My customer have problem x,y,z"*.
+- *"My customer care about x"*.
+- *"My customer would pay for solution x"*.
+- *"There are no satisfactory substitutes so far"*.
 
 The riskiest assumptions usually live on the problem space. If your customers don't have the problem you're trying to solve, they won't care about your product. Then, convert these assumptions to hypotheses.
 
 ## Hypotheses
 
-A hypothesis is a specific statement of what you believe is true and that is testable with an experiment. It has a target customer group, an expected outcome and a strategy to get customers to behave in specific way.  Hypotheses bring clarity to everyone in the team.
-
+A *hypothesis* is a specific statement, testable with an experiment, of what you believe is true. It has a target customer group, an expected outcome and a strategy to get customers to behave in a specific way. Hypotheses bring clarity to everyone on the team.
 
 When building new products, this basic template for writing hypotheses works great:
 
 > **We believe** [subject/target]  **will** [predicted action] **because** [reason]
 
-In established companies with existing products, there's a more specific way of thinking about them:
+In established companies with existing products, there is a more specific way of thinking about them:
 
 > **We believe** [subject/target] **has a** [problem] **because** [reason]. **If we do** [action], **this** [metric] **will improve** 
 
@@ -63,63 +62,63 @@ The main difference between assumptions and hypotheses is that hypotheses are ac
 
 ## Minimum Success Criteria (MSC)
 
-A Minimum Success Criteria (MSC) is how you make a hypothesis falsifiable. This criteria helps to decide if your product is worth building after all.
+A *Minimum Success Criteria* (MSC) is how you make a hypothesis falsifiable. This criteria helps you decide whether your product is worth building after all.
 
 It is common that most of the experiments end up somewhere in the middle of *valid* and *invalid*. This means that if you don't define this criteria beforehand, it would be hard to make a decision objectively.
 
-As a Product Manager, a great MCS should include the Return of Investment (ROI) of the experiment. The ability to compare the cost / reward relation of the experiments is more important than the value itself. A MCS provides clarity and meaning to your team.
+As a Product Manager, you should also include the *Return of Investment* (ROI) of the experiment in your MSC. The ability to compare the cost/reward ratio among experiments is more important than the actual value. An MCS provides clarity and meaning to your team.
 
 ## The Value Proposition
 
-The value proposition gathers the customer needs that your product is going to address. By doing this, you're also deciding what not to address. This is key to define the product vision and strategy.
+The *value proposition* gathers the customer needs that your product is going to address. By doing this, you're also deciding what not to address. This is key to define the product vision and strategy.
 
-The most important thing is to clearly articulate how you product is different and better from the current alternatives.
+The most important thing is to clearly articulate how your product is different and better from the current alternatives.
 
 Once the value proposition is ready, it is your job as a Product Manager to define the feature set that delivers on your value proposition.
 
 ##  The Minimum Viable Product (MVP)
 
-Now, it is time to move from the *problem space* to the *solution space*. However, building a product to deliver on the full value proposition is too risky. As a Product Manager, you need to identify what to include in your MVP to validate that you are on the right track.
+Now, it is time to move from the problem space to the *solution space*. However, building a product to deliver on the full value proposition is too risky. As a Product Manager, you need to identify what to include in your MVP to validate that you are on the right track.
 
 > A Minimum Viable Product is that version of a new product which allows a team to collect a maximum amount of validated learning about customers with the least effort - Eric Ries
 
-The process starts with the whole team brainstorming and generating as many ideas as possible. The focus should be on quantity over quality. Practice *divergent thinking*.
+The process starts with the whole team brainstorming and generating as many ideas as possible. The focus should be on quantity over quality. Practice *divergent thinking* when doing this.
 
 Then, find ways to reduce the scope of these feature ideas and prioritize them based on their value and effort.
 
-Finally, choose the feature set that should be part of your MVP candidate. It should tie back to your value proposition.
+Finally, choose the feature set that should be part of your MVP candidate. It should always tie back to your value proposition.
 
 ![](images/mvp_pyramid.png "The MVP Pyramid")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
-> While an MVP has limited functionality, it should be *complete* by addressing those three higher-level attributes - Dan Olsen
+> While an MVP has limited functionality, it should be complete by addressing those three higher-level attributes - Dan Olsen
 
 As a Product Manager, keep in mind that an MVP has to create value for the target customer. This means that a limited feature set should not be an excuse for a mediocre product.
 
 ## The Matrix of MVP Tests
 
-There are four types of tests you can run. Since you need validated learning from real customers, they need to think the product is ready.
+There are four types of tests you can run. Since you need validated learning from real customers, they need to think the product is *ready*.
 
-The tolerance from your customers determines which type of MVP test fits best.
+The tolerance of your customers determines which type of MVP test is the best fit.
 
-> Fake it till you make it - Anonymous
+> Fake it till you make it
 
 ![](images/mvp-tests-matrix.png "The Matrix of MVP Tests")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
 ### Qualitative Marketing MVP Tests
 
-These tests mainly involve to share your marketing material to your customers and get their feedback. Anything from emails, landing pages, videos, banners, etc, will do it.
+These tests mainly involve to share your marketing material to your customers and get their feedback. Anything from emails, landing pages, videos, banners, etc., will do it.
 
 The goal is to test your value proposition. Your customers will help you understand which product benefits are more important to them.
 
 ### Quantitative Marketing MVP Tests
 
-These tests help you validate demand for your product. The data you get as a result should help you find interviewees later on.
+These tests help you validate demand for your product. The data you get as a result should help you find interviewees later on the process.
 
 * **Landing Page/Smoke Test:** This is one of the most popular tests. The idea is to create a website that clearly describes the value proposition of your product and ask them to express some level of interest. A good practice is to ask them some kind of contact information such as their email address. You should measure the percentage of visitors who performed an action of interest (conversions).
 
-* **Explainer Video:** This is a variation of the landing page, but with a video. This technique is particularly useful when the product is hard to explain. Again, measure conversions.
+* **Explainer Video:** This is a variation of the landing page, but with a video. This technique is particularly useful when the product is hard to explain. You should also measure conversions here.
 
 * **Ad Campaign:** This is a great way to drive traffic to your landing page. Google Adsense or Facebook have great tools to experiment which phrases or keywords work best with your target customer. They are especially useful for optimizing customer acquisition.
 
@@ -129,7 +128,7 @@ These tests help you validate demand for your product. The data you get as a res
 
 ### Qualitative Product MVP Tests
 
-These tests help ensure that customers see value in your actual product. They are the best way to assess and improve your Product/Market Fit. 
+These tests help ensure that customers see value in your actual product. They are the best way to assess and improve your *Product/Market Fit*. 
 
 A great example is to test the product design with your customers before actually build it. This saves a lot of time and effort when making changes.
 
@@ -147,9 +146,9 @@ A great example is to test the product design with your customers before actuall
 
 These tests work best when your product has a meaningful usage. Since the sample size is larger, you can learn how your customers behave when using your product.
 
-- **Fake Door/404 Page:** These provide a great way to test customer demand for a feature. By including a link or button to the new feature you can measure the percentage of customers that click on it. One approach is to build a thank you page with a message explaining that the feature is not built yet. Another is to just leave the link broken and measure clicks. You should use them wisely.
+- **Fake Door/404 Page:** These provide a great way to test customer demand for a feature. By including a link or button to the new feature you can measure the percentage of customers that click on it. One approach is to build a *thank you page* with a message explaining that the feature is not built yet. Another is to just leave the link broken and measure clicks. You should use them wisely.
 
-- **Product Analytics and A/B Testing:** Product analytics provide insights about your product's usage and the baseline for A/B testing. These experiments help you compare the performance of two alternative user experiences based on a key metric. Many companies with are doing experiments constantly. This is how great companies create great products and separates from the rest.
+- **Product Analytics and A/B Testing:** Product analytics provide insights about your product's usage and the baseline for A/B testing. These experiments help you compare the performance of two alternative user experiences based on a key metric. Many companies do these experiments constantly. This is how companies create great products that separates them from the rest.
 
 ---
 
