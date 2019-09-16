@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mental Models for Product Managers
-excerpt: How to make intelligent decisions? Learn which mental models are most helpful for product managers.
+excerpt: How to make intelligent decisions? Learn the mental models for Product Managers.
 
 type: home-section
 order: 9
@@ -9,13 +9,13 @@ color: af5454
 image: https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?fit=crop&w=300&q=80
 ---
 
-A mental model is a representation of how something works. Depending on the context, mental models take different forms. A common analogy is that they are like tools in a toolbox.
+*Mental models* are frameworks for thinking. Depending on the context, mental models take different forms. A common analogy is that they are like *tools* in a toolbox.
 
 Mental models help Product Managers to learn how systems work and to make better decisions.
 
-A system is a set of things working together as whole. Mental models help to optimize a system by highlighting the core components and how they work together. Almost anything in the world can be described as a system.
+A system is a set of components working together as whole. Mental models help to optimize a system by highlighting the core components and how they work together. Almost anything in the world can be described as a system.
 
-Making good decisions without needing to know every detail is a common scenario. Mental models are frameworks for thinking. They simplify complex things by cutting through the noise.
+A mental model is a representation of how something works. Making good decisions without needing to know every detail is a common scenario. A mental model simplify complex things by cutting through the noise.
 
 There are a few mental models that are relevant to the key aspects of Product Management.
 
@@ -31,7 +31,7 @@ There are a few mental models that are relevant to the key aspects of Product Ma
 
 ## Eisenhower Decision Matrix (Urgent vs. Important)
 
-This model helps to prioritize, which is key for Product Mangers to succeed. The idea is to clearly define what "urgent" and "important" mean and use the matrix to determine which quadrant a task belongs.
+This model helps Product Managers to prioritize, which is key to succeed. The idea is to clearly define what *urgent* and *important* mean and use the matrix to determine which quadrant a task belongs.
 
 ![](images/eisenhower-box.png "Eisenhower Box")
 <span>[From James Clear article. Resources section](#resources)</span>
@@ -45,30 +45,31 @@ The four classes, in order, are:
 3. **Urgent, but not important**: Tasks you should delegate to someone else.
 4. **Neither urgent nor important**: Tasks that you should cut.
 
-A common mistake of new Product Managers is to get caught on urgent but unimportant tasks. Learn to delegate.
+A common mistake of new Product Managers is to get caught on urgent but unimportant tasks. Learn to delegate and cut unnecessary tasks.
 
 ## Local/Global
 
-This model states that the higher the level of the system to optimize, the greater the return of investment (ROI).
+This model states that the higher the level of the system to optimize, the greater the *Return Of Investment* (ROI).
 
-Most of the time, people try to optimize a specific part of a system to increase or improve a return. But this only lead to diminishing returns over time.
+Most of the time, people try to optimize a specific part of a system to increase or improve a return. But this often leads to *diminishing returns* over time.
 
 Systems can be part of a larger system. When thinking about the larger system, optimization tipically lead to higher returns.
 
 ## The Inversion Principle
-This mental model visualizes how failure looks like to get an idea of what requires to get there. By focusing on how failure looks like, Product Managers visualize what to avoid to succeed.
+
+This mental model visualizes how *failure* looks like to get an idea of what needs to happen to get there. By focusing on how failure looks like, Product Managers can better visualize what to avoid to succeed.
 
 The process of using the Inversion Principle is very simple:
 
 1. **Define the goal**: What are you trying to do?
-2. **Invert it**: What would guarantee not achieving the goal?
+2. **Invert it**: What would guarantee to fail at achieving the goal?
 3. **Come up with solutions**: How would you prevent that from happening?
 
 When trying to achieve a goal, Product Managers should fast forward months ahead and assume a complete failure. Then work backwards and tell the story of how it happened to find the main reasons and root causes.
 
 ## Emotional Intelligence
 
-The ability to recognize and control our emotions is fundamental for Product Managers. The same goes for understanding and responding to other people’s emotions. These are the foundations of team work.
+The ability to recognize and control our emotions is a common characteristic of great Product Managers. The same goes for understanding and responding to other people’s emotions. These are the foundations of effective team work.
 
 > For leaders, the first task in management has nothing to do with leading others; step one poses the challenge of knowing and managing oneself - Daniel Goleman
 
@@ -83,7 +84,7 @@ As leaders without authority, Product Managers need to master the following:
 
 This model break the myths around monetized incentives to improve performance. It describes how such incentives can go awry, especially in situations where outcomes can be manipulated by people who have direct control over them.
 
-A perverse incentive is an incentive that has an unintended and undesirable result or "cobra effect" which is contrary to the interests of the incentive makers.
+A *perverse incentive* is an incentive that has an unintended and undesirable result or [cobra effect](https://en.wikipedia.org/wiki/Cobra_effect) which is contrary to the interests of the incentive makers.
 
 ---
 
