@@ -35,6 +35,9 @@ google_analytics: UA-144584240-1
 
 repository: loverajoel/theproductindex
 
+jekyll_timeago:
+  depth: 1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
