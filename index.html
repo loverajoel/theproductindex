@@ -138,7 +138,45 @@
         <div class="color-back" style="background-color: #4B6584"></div>
       </li>
 
-      </ul></div>
+      <li style="order: 100; background-color: #FFE86D" order="100" class="email_form">
+        <img src="/assets/images/notification.png">
+
+        <h3>Never miss an update</h3>
+        <span>Subscribe for the latest news and product updates. We respect your privacy. No spam!</span>
+
+        <span class="done" style="display: none;">Subscribed!</span>
+        <input type="email" name="email" id="email">
+        <a style="color: #FFE86D" href="#" id="subscribe">Subscribe Now</a>
+      </li>
+    </ul>
+    <div class="contributors-home">
+      <h2>Contributors</h2>
+      <span>This is an open-source project. You can help keep this content up to date adding new resources and content.</span>
+      <ul class="contributors-list-home">
+        
+          <li><a href="https://github.com/loverajoel" target="_blank"><img src="https://avatars2.githubusercontent.com/u/1700100?v=4" /></a></li>
+        
+          <li><a href="https://github.com/fernandezdavid" target="_blank"><img src="https://avatars3.githubusercontent.com/u/2103451?v=4" /></a></li>
+        
+      </ul>
+    </div><script>
+    document.querySelector('#subscribe').onclick = event => {
+      event.preventDefault();
+      fetch("https://api.sidemail.io/v1/hostedforms/5d7f9d4a289e3d00fc6449e4/submit", {
+        method: "post", 
+        body: JSON.stringify({ emailAddress: document.querySelector('#email').value }),
+        headers: {
+            "Content-Type": "application/json",
+        },
+        mode: "cors",
+      }).then(response => {
+        document.querySelector('#subscribe').style.display = 'none';
+        document.querySelector('#email').style.display = 'none';
+        document.querySelector('.done').style.display = 'block';
+      })
+    }
+</script>
+</div>
 
       </div>
     </main><footer class="site-footer h-card">
