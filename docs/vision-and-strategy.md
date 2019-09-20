@@ -3,6 +3,7 @@ layout: page
 title: Product Vision & Strategy 
 excerpt: How to generate the most impact? Learn where Product Managers apply the most leverage.
 
+
 type: home-section
 order: 7
 color: 4B6584
