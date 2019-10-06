@@ -4,7 +4,7 @@ title: Growth Foundations
 excerpt: How to optimize for growth? Learn how to build a strong foundation for growth.
 
 type: home-section
-order: 10
+order: 11
 color: 5f90a2
 image: https://images.unsplash.com/photo-1465343161283-c1959138ddaa?fit=crop&w=300&q=80
 ---

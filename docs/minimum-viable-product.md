@@ -9,9 +9,9 @@ color: a764a5
 image: https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?fit=crop&w=300&q=80
 ---
 
-After spending a considerable time in the *problem space*, Product Managers should have a pretty good list of customer needs at this point. The next step is to decide which ones to address.
+After spending considerable time in the *problem space*, Product Managers should have a pretty good list of customer needs at this point. The next step is to decide which ones to address.
 
-The key is to focus on a set of customer needs and solve them very well.  Since uncertainty is still very high, it is not practical to spend too much resources testing the initial hypothesis. Also, the larger the scope, the less valuable the product.
+The key is to focus on a set of customer needs and solve them very well.  Since uncertainty is still very high, it is not practical to spend too many resources testing the initial hypothesis. Also, the larger the scope, the less valuable the product.
 
 Next, Product Managers need to define the feature set of the *Minimal Viable Product* (MVP). To do so, you can run as many MVP tests as needed. They will reveal if you need to change, add or remove your initial hypotheses and assumptions.
 
@@ -154,7 +154,7 @@ These tests work best when your product has a meaningful usage. Since the sample
 
 This is a first draft and a just a glance of what Experiments look like. Take the time to learn from the resources below. We keep them up to date!
 
-Do you have any feedback? Please, let us know [here]().
+Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehuD1EBGG46).
 
 ## Resources
 
