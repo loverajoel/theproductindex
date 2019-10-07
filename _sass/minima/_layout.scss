@@ -312,7 +312,7 @@
         grid-row-end: span 4;
       }*/
 
-      &[order='1'], &[order='6'], &[order='7'], &[order='100'] {
+      &[order='1'], &[order='6'], &[order='7'], &[order='12'], &[order='13'] {
         grid-column-end: span 2;
         grid-row-end: span 4;
       }
@@ -591,6 +591,7 @@ blockquote {
     position: absolute;
     bottom: 80px;
     z-index: 2;
+    left: 20px;
 
     @media screen and (max-width: $on-large) {
       padding: 10px 10px;
