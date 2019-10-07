@@ -4,7 +4,7 @@ title: Measuring Product Success
 excerpt: What is product success? Learn to measure what matters.
 
 type: home-section
-order: 11
+order: 10
 color: 84ad7a
 image: https://images.unsplash.com/photo-1543286386-2e659306cd6c?fit=crop&w=300&q=80
 ---

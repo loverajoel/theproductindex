@@ -5,7 +5,7 @@ excerpt: How to generate the most impact? Learn where Product Managers apply the
 
 
 type: home-section
-order: 7
+order: 9
 color: 4B6584
 image: https://images.unsplash.com/photo-1529699211952-734e80c4d42b?fit=crop&w=300&q=80
 ---
