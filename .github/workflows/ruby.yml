@@ -18,10 +18,6 @@ jobs:
         ruby-version: 2.6.x
     - name: Build and test with Rake
       run: |
-        git config --global user.email "joelalovera@gmail.com"
-        git config --global user.name "loverajoel"
-        git fetch --unshallow || true
-        git fetch origin "+refs/heads/*:refs/remotes/origin/*"
         git checkout -b site origin/site
         rm -rf ./docs
         git checkout master ./docs
