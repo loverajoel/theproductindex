@@ -23,7 +23,7 @@ The goal is to learn if you are heading in the right direction in the cheapest w
 - [Assumptions](#assumptions)
 - [Hypotheses](#hypotheses)
 - [Minimum Success Criteria (MSC)](#minimum-success-criteria-msc)
-- [The Value Proposition](#the-value-proposition)
+- [Define the Value Proposition](#define-the-value-proposition)
 - [The Minimum Viable Product (MVP)](#the-minimum-viable-product-mvp)
 - [The Matrix of MVP Tests](#the-matrix-of-mvp-tests)
 	- [Qualitative Marketing MVP Tests](#qualitative-marketing-mvp-tests)
@@ -68,19 +68,28 @@ It is common that most of the experiments end up somewhere in the middle of *val
 
 As a Product Manager, you should also include the *Return of Investment* (ROI) of the experiment in your MSC. The ability to compare the cost/reward ratio among experiments is more important than the actual value. An MCS provides clarity and meaning to your team.
 
-## The Value Proposition
+## Define the Value Proposition
 
-The *value proposition* gathers the customer needs that your product is going to address. By doing this, you're also deciding what not to address. This is key to define the product vision and strategy.
+The *Value Proposition* reflects what customer needs your product is going to address. You want to make sure the product is no just valuable, but better than the alternatives. This also means what not address, which is the essence of product strategy.
 
-The most important thing is to clearly articulate how your product is different and better from the current alternatives.
+A great framework to do this is the *Kano Model*, created by Noriaka Kano. This model states that improving every aspect of a product doesn't contribute to customer satisfaction in the same way. Some aspects meet basic expectations and some others delight customers.
 
-Once the value proposition is ready, it is your job as a Product Manager to define the feature set that delivers on your value proposition.
+![](images/the-kano-model.png "The Kano Model")
+<span>[From Dan Olsen's book. Resources section.](#resources)</span>
+
+This model provides a helpful way to categorize what to address. *Performance benefits* are the ones where more is better. Customers always expect more of them. *Must-haves benefits* create dissatisfaction if they are not present but don't increase satisfaction afterward. Finally, *Delighters* provide unexpected benefits leading to higher satisfaction. But not having them doesn't cause dissatisfaction.
+
+This hierarchy and the always-changing needs of customers reveals an important aspect of the Kano model:
+
+> Needs migrate over time. Yesterday's delighters become today's performance features and tomorrow's must-haves — Dan Olsen
+
+As a Product Manager, you need to articulate how your product is going to be better from the current alternatives. Only after, you can define the feature set that delivers on your value proposition.
 
 ##  The Minimum Viable Product (MVP)
 
 Now, it is time to move from the problem space to the *solution space*. However, building a product to deliver on the full value proposition is too risky. As a Product Manager, you need to identify what to include in your MVP to validate that you are on the right track.
 
-> A Minimum Viable Product is that version of a new product which allows a team to collect a maximum amount of validated learning about customers with the least effort - Eric Ries
+> A Minimum Viable Product is that version of a new product which allows a team to collect a maximum amount of validated learning about customers with the least effort — Eric Ries
 
 The process starts with the whole team brainstorming and generating as many ideas as possible. The focus should be on quantity over quality. Practice *divergent thinking* when doing this.
 
@@ -91,7 +100,7 @@ Finally, choose the feature set that should be part of your MVP candidate. It sh
 ![](images/mvp_pyramid.png "The MVP Pyramid")
 <span>[From Dan Olsen's book. Resources section.](#resources)</span>
 
-> While an MVP has limited functionality, it should be complete by addressing those three higher-level attributes - Dan Olsen
+> While an MVP has limited functionality, it should be complete by addressing those three higher-level attributes — Dan Olsen
 
 As a Product Manager, keep in mind that an MVP has to create value for the target customer. This means that a limited feature set should not be an excuse for a mediocre product.
 
@@ -158,9 +167,10 @@ Do you have any feedback? Please, let us know [here](https://forms.gle/8VSU94ehu
 
 ## Resources
 
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|["An Intro to the Minimum Viable Product (MVP)" by X](https://www.productmanagerhq.com/2014/09/an-intro-to-the-minimum-viable-product-mvp/)|2 min read|
-|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Why and How You Should Build a Minimum Viable Product (MVP)" by](https://medium.com/tokopedia-product-team/minimum-viable-product-mvp-101-5192bc5c2a2)|2 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["An Intro to the Minimum Viable Product (MVP)"](https://www.productmanagerhq.com/2014/09/an-intro-to-the-minimum-viable-product-mvp/)|2 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Why and How You Should Build a Minimum Viable Product (MVP)" by Oka Adrindra](https://medium.com/tokopedia-product-team/minimum-viable-product-mvp-101-5192bc5c2a2)|2 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["What is your Riskiest Assumption? (Workshop)" by Neda D Stevanović](https://mvpworkshop.co/validate-riskiest-assumption/)|14 min read|
 |![](https://img.icons8.com/ios/50/000000/notepad.png)|["The Product Manager’s Scientific Method" by Andre Theus](https://www.productplan.com/product-manager-scientific-method/)|6 min read|
+|![](https://img.icons8.com/ios/50/000000/notepad.png)|["Using The Kano Model To Prioritize Product Development" by Martin Eriksson](https://www.mindtheproduct.com/using-the-kano-model-to-prioritize-product-development/)|4 min read|
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries, Chapters 6-7](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/)
 |![](https://img.icons8.com/ios/50/000000/book.png)|["The Lean Product Playbook" by Dan Olsen, Chapters 5-7](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)|
