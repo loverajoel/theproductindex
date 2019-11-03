@@ -11,7 +11,7 @@ image: https://images.unsplash.com/photo-1535598745644-bc7913bb1a2a?fit=crop&w=3
 
 After spending considerable time in the *problem space*, Product Managers should have a pretty good list of customer needs at this point. The next step is to decide which ones to address.
 
-The key is to focus on a set of customer needs and solve them very well.  Since uncertainty is still very high, it is not practical to spend too many resources testing the initial hypothesis. Also, the larger the scope, the less valuable the product.
+The key is to focus on a set of customer needs and solve them very well.  Since uncertainty is still very high, it is not practical to spend too many resources testing the initial hypothesis. It is a perfect opportunity to get creative and experiment.
 
 Next, Product Managers need to define the feature set of the *Minimal Viable Product* (MVP). To do so, you can run as many MVP tests as needed. They will reveal if you need to change, add or remove your initial hypotheses and assumptions.
 
@@ -36,7 +36,7 @@ The goal is to learn if you are heading in the right direction in the cheapest w
 
 An *assumption* is a belief with no evidence to support it. It’s something we take for granted when thinking about the problem.
 
-As a Product Manager you want to make a list of all your assumptions and choose the riskiest. The ones that, if not true, will make your product fail. If that's the case, you can go back to the drawing board and pivot.
+As a Product Manager, you want to make a list of all your assumptions and choose the riskiest. The ones that, if not true, will make your product fail. If that's the case, you can go back to the drawing board and pivot.
 
 Some examples of common assumptions are:
 - *"My customer have problem x,y,z"*.
